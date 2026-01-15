@@ -1,0 +1,179 @@
+{
+	"Agriculture": [
+		{ "Icon": "", "Name": "Better Gardening" },
+		{ "Icon": "", "Name": "Growing Food at Home" },
+		{ "Icon": "", "Name": "Liam Keating's Subsistence Farming" },
+		{ "Icon": "", "Name": "The Science of Crop Genetics and Yields" },
+		{ "Icon": "", "Name": "USDA Guide to Agricultural Output Maximization" }
+	],
+	"Aiming": [
+		{ "Icon": "", "Name": "Better Aiming" },
+		{ "Icon": "", "Name": "Drawing and Shooting" },
+		{ "Icon": "", "Name": "Leading Moving Targets" },
+		{ "Icon": "", "Name": "Long Range Sniping Tactics" },
+		{ "Icon": "", "Name": "Secrets From the World's Best Snipers" }
+	],
+	"Animal Care": [
+		{ "Icon": "", "Name": "A Tale of St. Francis" },
+		{ "Icon": "", "Name": "Animal Welfare Basics" },
+		{ "Icon": "", "Name": "How Animals Think: A Helpful Guide" },
+		{ "Icon": "", "Name": "The Wants and Needs of Diverse Fauna" },
+		{ "Icon": "", "Name": "Wilds Tamed: An In-Depth Comparative" }
+	],
+	"Blacksmithing": [
+		{ "Icon": "", "Name": "Elementary Forge Practice" },
+		{ "Icon": "", "Name": "General Purpose Blacksmithing" },
+		{ "Icon": "", "Name": "Old West Smiths and Their Secrets" },
+		{ "Icon": "", "Name": "Really Hard Steel Co. Workers Handbook" },
+		{ "Icon": "", "Name": "The Complete Encyclopedia of Metallurgy" }
+	],
+	"Butchering": [
+		{ "Icon": "", "Name": "Butchering Basics" },
+		{ "Icon": "", "Name": "From Chuck to Shank" },
+		{ "Icon": "", "Name": "Hunter's Guide to Butchering" },
+		{ "Icon": "", "Name": "Master Butcher's Complete Guide" },
+		{ "Icon": "", "Name": "The Ergonomics of Tools in Meat Cutting Operations" }
+	],
+	"Carpentry": [
+		{ "Icon": "", "Name": "A Guide to Nailing" },
+		{ "Icon": "", "Name": "Carpentry, Woodcraft Style" },
+		{ "Icon": "", "Name": "Hand Crafted Shelving and Storage" },
+		{ "Icon": "", "Name": "Making Your Own Cabin From Scratch" },
+		{ "Icon": "", "Name": "Site Joinery and Architectural Carpentry" }
+	],
+	"Carving": [
+		{ "Icon": "", "Name": "Beginners Carving" },
+		{ "Icon": "", "Name": "Cool Woodshaping Projects!" },
+		{ "Icon": "", "Name": "Grinling Gibbons: His Life and Works" },
+		{ "Icon": "", "Name": "Medieval Wood and Bone Carving Techniques" },
+		{ "Icon": "", "Name": "The Art and Process of Natural Material Carving" }
+	],
+	"Cooking": [
+		{ "Icon": "", "Name": "Better Burger Flipping" },
+		{ "Icon": "", "Name": "Essential Home Cooking Guide" },
+		{ "Icon": "", "Name": "Flavorful Cuisine - 1993 Edition" },
+		{ "Icon": "", "Name": "Professional Tips from a Master Chef" },
+		{ "Icon": "", "Name": "Ruban Vert Gourmet - Complete Cooking Techniques" }
+	],
+	"Electrical": [
+		{ "Icon": "", "Name": "Basic Electronics" },
+		{ "Icon": "", "Name": "Kentucky AV Guide '93" },
+		{ "Icon": "", "Name": "Practical Wiring Guide" },
+		{ "Icon": "", "Name": "Telecommunications in the 20th Century" },
+		{
+			"Icon": "",
+			"Name": "Understanding Integrated Controls for Electronic Systems"
+		}
+	],
+	"First Aid": [
+		{ "Icon": "", "Name": "A Scouts Injury Guide" },
+		{ "Icon": "", "Name": "Bandaging and Suturing" },
+		{ "Icon": "", "Name": "Emergency Paramedics Manual" },
+		{ "Icon": "", "Name": "Gray's Anatomy of the Human Body" },
+		{ "Icon": "", "Name": "Surgical Techniques of the Operating Room" }
+	],
+	"Fishing": [
+		{ "Icon": "", "Name": "Dean's Good Fishing Guide" },
+		{ "Icon": "", "Name": "Fly Fishing, with JR Hartley" },
+		{ "Icon": "", "Name": "Fresh and Saltwater Fishing" },
+		{ "Icon": "", "Name": "Latest Rod and Net Techniques" },
+		{ "Icon": "", "Name": "The Authoritative Kentucky Fishing Guide" }
+	],
+	"Foraging": [
+		{ "Icon": "", "Name": "A Feast in the Forest" },
+		{ "Icon": "", "Name": "Dean's Guide to Sticks & Stones" },
+		{ "Icon": "", "Name": "Finding The Treasure in the Trash" },
+		{ "Icon": "", "Name": "Survival Foraging: How Nature Can Save Your Life" },
+		{ "Icon": "", "Name": "US Park Service Complete Nature Census - Kentucky" }
+	],
+	"Glassmaking": [
+		{ "Icon": "", "Name": "Glass: A History" },
+		{ "Icon": "", "Name": "From Sand to Glass: A Journey" },
+		{ "Icon": "", "Name": "Laboratory Manual of Glassblowing" },
+		{ "Icon": "", "Name": "Secrets of the Carlow Crystal Makers" },
+		{ "Icon": "", "Name": "Venetian Glass: An Electron Microprobe Analysis" }
+	],
+	"Knapping": [
+		{ "Icon": "", "Name": "Flint Knapping 101" },
+		{ "Icon": "", "Name": "Guide to Kentucky Geology" },
+		{ "Icon": "", "Name": "Lithic Technology Manual 1993" },
+		{ "Icon": "", "Name": "Schmidt Rock Hardness Testing Techniques" },
+		{ "Icon": "", "Name": "Technological Morphometrics of Clovis Artifacts" }
+	],
+	"Long Blade": [
+		{ "Icon": "", "Name": "Cool Swords!" },
+		{ "Icon": "", "Name": "Fencing: A History" },
+		{ "Icon": "", "Name": "Old Sword-Play by Alfred Hutton" },
+		{ "Icon": "", "Name": "The Zettels of Johannes Liechtenauer" },
+		{ "Icon": "", "Name": "Wear Analysis of Selected Medieval Swords" }
+	],
+	"Maintenance": [
+		{ "Icon": "", "Name": "Basic Repairs" },
+		{ "Icon": "", "Name": "Better Tools, Made Easy" },
+		{ "Icon": "", "Name": "Home Guide to Tool Repairs" },
+		{ "Icon": "", "Name": "Maintaining High Grade Tools" },
+		{ "Icon": "", "Name": "Understanding Biomechanics of Tool Use" }
+	],
+	"Masonry": [
+		{ "Icon": "", "Name": "A Bricklayer's Life" },
+		{ "Icon": "", "Name": "Flooring: Do It Yourself" },
+		{ "Icon": "", "Name": "Dibnah's Guide to Bricks" },
+		{ "Icon": "", "Name": "Secrets of a Professional Mason" },
+		{
+			"Icon": "",
+			"Name": "Statistical Analysis of Historic Masonry Constructions"
+		}
+	],
+	"Mechanics": [
+		{ "Icon": "", "Name": "Carzone's Repair Guide" },
+		{ "Icon": "", "Name": "How Vehicle Engines Work" },
+		{ "Icon": "", "Name": "Laine's Repair Manual '93" },
+		{ "Icon": "", "Name": "Long Term Vehicle Maintenance" },
+		{ "Icon": "", "Name": "Mastering Automotive Fault Diagnosis Techniques" }
+	],
+	"Pottery": [
+		{ "Icon": "", "Name": "Ancient Pottery" },
+		{ "Icon": "", "Name": "Build Your Own Kiln" },
+		{ "Icon": "", "Name": "Glazing Ceramics at Home" },
+		{ "Icon": "", "Name": "Ming Chinese Masterworks: A Guide" },
+		{ "Icon": "", "Name": "Pyrometamorphic Process of Ceramic Materials" }
+	],
+	"Reloading": [
+		{ "Icon": "", "Name": "Basic Reloading" },
+		{ "Icon": "", "Name": "Dead Man's Click" },
+		{ "Icon": "", "Name": "Jungle Style Reloading" },
+		{ "Icon": "", "Name": "Strippers, Speedloaders, and Bolt Action" },
+		{ "Icon": "", "Name": "The Ultimate Encyclopedia of Reloading Techniques" }
+	],
+	"Tailoring": [
+		{ "Icon": "", "Name": "Basic Clothing Repair" },
+		{ "Icon": "", "Name": "From Rags to Royalty: A Sewing Guide" },
+		{ "Icon": "", "Name": "Haute Couture Tailoring Methods" },
+		{ "Icon": "", "Name": "Modern Patterns from the Catwalks of Paris" },
+		{ "Icon": "", "Name": "Textile Production and Manufacturing Techniques" }
+	],
+	"Tracking": [
+		{ "Icon": "", "Name": "Animal Pawprints" },
+		{ "Icon": "", "Name": "Hunting with Hemingway" },
+		{ "Icon": "", "Name": "Long Range Animal Tracking" },
+		{ "Icon": "", "Name": "The Smell of Ivory: An African Adventure" },
+		{
+			"Icon": "",
+			"Name": "Understanding Animal Behavior Through Spoor Placement"
+		}
+	],
+	"Trapping": [
+		{ "Icon": "", "Name": "Basic Pest Control" },
+		{ "Icon": "", "Name": "Better Trapping, with Dean" },
+		{ "Icon": "", "Name": "Park Rangers Wildlife Handbook '93" },
+		{ "Icon": "", "Name": "Research on Rodents and Mammals of Kentucky" },
+		{ "Icon": "", "Name": "The Encyclopedia of Applied Animal Psychology" }
+	],
+	"Welding": [
+		{ "Icon": "", "Name": "Basics of Welding" },
+		{ "Icon": "", "Name": "Building with Metal" },
+		{ "Icon": "", "Name": "Machining Metal: The Mass Genfac Guide" },
+		{ "Icon": "", "Name": "Ore to Sheets: A Complete Metalworking Manual" },
+		{ "Icon": "", "Name": "Technological Fundamentals of Metal Fabrication" }
+	]
+}

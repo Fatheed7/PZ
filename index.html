@@ -2,192 +2,20 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="/vite.svg" />
 		<link
 			rel="stylesheet"
-			href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+			href="https://unpkg.com/primeflex@latest/primeflex.css"
 		/>
-		<title>Game Checklist</title>
-		<style>
-			body {
-				font-family: system-ui, sans-serif;
-				max-width: 600px;
-				margin: 2rem auto;
-				line-height: 1.6;
-			}
-			h1 {
-				margin-bottom: 0.5rem;
-			}
-			ul {
-				list-style: none;
-				padding: 0;
-			}
-			li {
-				margin: 0.25rem 0;
-			}
-			textarea {
-				width: 100%;
-				height: 160px;
-				margin-top: 1rem;
-				font-family: monospace;
-			}
-			.meta {
-				font-size: 0.9rem;
-				color: #555;
-			}
-		</style>
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+		/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>package.json</title>
 	</head>
 	<body>
-		<h1>Game Checklist</h1>
-		<p>
-			Checklist state is encoded into a fixed-length string and saved to
-			localStorage.
-		</p>
-
-		<ul id="checklist"></ul>
-
-		<h3>Encoded save code</h3>
-		<textarea id="stateString" readonly></textarea>
-		<div class="meta" id="metaInfo"></div>
-
-		<script>
-			// ======================
-			// CONFIGURATION
-			// ======================
-
-			const VERSION = 1;
-			const STORAGE_KEY = "gameChecklistState";
-
-			// Append-only checklist!
-			const ITEMS = [
-				"Find the sword",
-				"Beat first boss",
-				"Unlock fast travel",
-				"Collect 10 gems",
-				"Finish tutorial",
-				"Secret area discovered",
-			];
-
-			const BITS_PER_CHAR = 6; // 6 bits per character
-
-			// URL-safe base64-style alphabet (A–Z a–z 0–9 - _)
-			const ALPHABET =
-				"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_";
-
-			// ======================
-			// RENDER CHECKLIST
-			// ======================
-
-			const listEl = document.getElementById("checklist");
-
-			ITEMS.forEach((label, index) => {
-				const li = document.createElement("li");
-				const checkbox = document.createElement("input");
-				checkbox.type = "checkbox";
-				checkbox.id = `item-${index}`;
-				checkbox.addEventListener("change", saveState);
-
-				const text = document.createElement("label");
-				text.htmlFor = checkbox.id;
-				text.textContent = " " + label;
-
-				li.appendChild(checkbox);
-				li.appendChild(text);
-				listEl.appendChild(li);
-			});
-
-			// ======================
-			// ENCODING / DECODING
-			// ======================
-
-			function expectedCharLength() {
-				// Fixed-length save code (64 characters)
-				return 64;
-			}
-
-			function encodeState() {
-				const bits = ITEMS.map((_, i) =>
-					document.getElementById(`item-${i}`).checked ? "1" : "0"
-				).join("");
-
-				let encoded = "";
-				for (let i = 0; i < bits.length; i += BITS_PER_CHAR) {
-					const chunk = bits
-						.slice(i, i + BITS_PER_CHAR)
-						.padEnd(BITS_PER_CHAR, "0");
-					encoded += ALPHABET[parseInt(chunk, 2)];
-				}
-
-				// Enforce fixed length
-				return encoded.padEnd(expectedCharLength(), "A");
-			}
-
-			function decodeState(encoded) {
-				let bits = "";
-				for (const char of encoded) {
-					const value = ALPHABET.indexOf(char);
-					if (value === -1) continue;
-					bits += value.toString(2).padStart(BITS_PER_CHAR, "0");
-				}
-
-				return bits
-					.slice(0, ITEMS.length)
-					.split("")
-					.map((b) => b === "1");
-			}
-
-			// ======================
-			// SAVE / LOAD
-			// ======================
-
-			function saveState() {
-				const payload = {
-					version: VERSION,
-					data: encodeState(),
-				};
-
-				localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
-				updateUI(payload.data);
-			}
-
-			function loadState() {
-				const raw = localStorage.getItem(STORAGE_KEY);
-				if (!raw) {
-					updateUI(encodeState());
-					return;
-				}
-
-				try {
-					const payload = JSON.parse(raw);
-
-					if (payload.version !== VERSION) {
-						console.warn("Save version mismatch");
-						updateUI(encodeState());
-						return;
-					}
-
-					const expected = expectedCharLength();
-					const data = payload.data.padEnd(expected, "A").slice(0, expected);
-
-					const values = decodeState(data);
-					values.forEach((checked, i) => {
-						const cb = document.getElementById(`item-${i}`);
-						if (cb) cb.checked = checked;
-					});
-
-					updateUI(data);
-				} catch {
-					updateUI(encodeState());
-				}
-			}
-
-			function updateUI(encoded) {
-				document.getElementById("stateString").value = `v${VERSION}:${encoded}`;
-				document.getElementById(
-					"metaInfo"
-				).textContent = `Items: ${ITEMS.length} • Characters: ${encoded.length} / 64`;
-			}
-
-			loadState();
-		</script>
+		<div id="root"></div>
+		<script type="module" src="/src/main.jsx"></script>
 	</body>
 </html>
