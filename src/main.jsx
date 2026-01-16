@@ -3,11 +3,14 @@ import { createRoot } from "react-dom/client";
 import "./index.css";
 import App from "./App.jsx";
 import { PrimeReactProvider } from "primereact/api";
+import { BooksProvider } from "./Contexts/BooksContext";
 
 createRoot(document.getElementById("root")).render(
 	<StrictMode>
 		<PrimeReactProvider>
-			<App />
+			<BooksProvider>
+				<App />
+			</BooksProvider>
 		</PrimeReactProvider>
 	</StrictMode>
 );

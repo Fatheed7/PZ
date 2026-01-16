@@ -1,90 +1,16 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
+import { ROMAN_1_TO_5 } from "../../assets/Utils/Constants";
+import { encodeBools, decodeBools } from "../../assets/Utils/EncodeDecodeBools";
+import { handleCheckboxChange } from "../../assets/Utils/HandleCheckboxChange";
+import { loadCheckedBooks } from "../../assets/Utils/LoadCheckedBooks";
+import { BooksContext } from "../../contexts/BooksContext";
 
-const BOOKS_JSON_URL = "/books.json";
-
-const ALPHABET =
-	"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-
-function encodeBools(boolArray) {
-	const bits = boolArray.map((b) => (b ? "1" : "0")).join("");
-
-	let output = "";
-	for (let i = 0; i < bits.length; i += 5) {
-		const chunk = bits.slice(i, i + 5).padEnd(5, "0");
-		const value = parseInt(chunk, 2);
-		output += ALPHABET[value];
-	}
-	return output;
-}
-
-function decodeBools(encoded, expectedLength) {
-	let bits = "";
-
-	for (const char of encoded) {
-		const value = ALPHABET.indexOf(char);
-		if (value < 0) continue;
-		bits += value.toString(2).padStart(5, "0");
-	}
-
-	bits = bits.slice(0, expectedLength);
-
-	return bits.split("").map((b) => b === "1");
-}
+const JSON_URL = "/json/books.json";
+const STORAGE_KEY = "books";
 
 const BookList = () => {
-	const [booksData, setBooksData] = useState({});
-	const [checkedBooks, setCheckedBooks] = useState({});
-
-	useEffect(() => {
-		fetch(BOOKS_JSON_URL)
-			.then((res) => res.json())
-			.then((data) => {
-				setBooksData(data);
-
-				const categories = Object.keys(data);
-				const total = categories.reduce(
-					(sum, cat) => sum + data[cat].length,
-					0
-				);
-
-				const saved = localStorage.getItem("books");
-
-				let flatChecks = new Array(total).fill(false);
-
-				if (saved) {
-					const decoded = decodeBools(saved, total);
-					flatChecks = decoded;
-				}
-
-				const rebuilt = {};
-				let pointer = 0;
-
-				for (const cat of categories) {
-					const count = data[cat].length;
-					rebuilt[cat] = flatChecks.slice(pointer, pointer + count);
-					pointer += count;
-				}
-
-				setCheckedBooks(rebuilt);
-			})
-			.catch((err) => console.error("Error loading books JSON:", err));
-	}, []);
-
-	const handleCheckboxChange = (category, index) => {
-		setCheckedBooks((prev) => {
-			const updated = {
-				...prev,
-				[category]: prev[category].map((v, i) => (i === index ? !v : v)),
-			};
-
-			const flat = Object.keys(updated).flatMap((cat) => updated[cat]);
-
-			const encoded = encodeBools(flat);
-			localStorage.setItem("books", encoded);
-
-			return updated;
-		});
-	};
+	const { booksData, checkedBooks, setCheckedBooks, STORAGE_KEY } =
+		useContext(BooksContext);
 
 	return (
 		<div className="p-12 max-w-6xl mx-auto">
@@ -102,10 +28,19 @@ const BookList = () => {
 										<input
 											type="checkbox"
 											checked={checkedBooks[category]?.[index] || false}
-											onChange={() => handleCheckboxChange(category, index)}
+											onChange={() =>
+												handleCheckboxChange(
+													category,
+													index,
+													setCheckedBooks,
+													STORAGE_KEY
+												)
+											}
 										/>
 										{book.Icon && <img src={book.Icon} alt={book.Name} />}
-										<span>{book.Name}</span>
+										<span>
+											{ROMAN_1_TO_5[index]}: {book.Name}
+										</span>
 									</label>
 								</li>
 							))}

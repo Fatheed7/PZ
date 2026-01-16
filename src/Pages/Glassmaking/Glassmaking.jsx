@@ -1,17 +1,53 @@
-import React from "react";
+import { useContext } from "react";
+import { ROMAN_1_TO_5 } from "../../assets/Utils/Constants";
+import { handleCheckboxChange } from "../../assets/Utils/HandleCheckboxChange";
+import { BooksContext } from "../../contexts/BooksContext";
+import { Accordion, AccordionTab } from "primereact/accordion";
 
-const Glassmaking = () => {
+const GlassMakingPage = () => {
+	const { booksData, checkedBooks, setCheckedBooks, STORAGE_KEY } =
+		useContext(BooksContext);
+
+	const glassmakingBooks = booksData["Glassmaking"] || [];
+
 	return (
-		<div style={{ padding: "2rem", maxWidth: "800px", margin: "0 auto" }}>
-			<h1 style={{ fontSize: "2rem", marginBottom: "1rem" }}>
-				Glassmaking Placeholder Page
-			</h1>
+		<div className="p-12 max-w-6xl mx-auto">
+			<h1 className="text-3xl font-bold mb-6">Glassmaking</h1>
 
-			<p style={{ fontSize: "1.1rem", lineHeight: "1.6" }}>
-				This is a temporary placeholder page.
-			</p>
+			<div className="grid">
+				<div className="col-12 p-3">
+					<Accordion activeIndex={0}>
+						<AccordionTab header="Related Books">
+							<ul className="ml-2">
+								{glassmakingBooks.map((book, index) => (
+									<li key={index} className="mb-1">
+										<label className="flex align-items-center gap-2 text-left">
+											<input
+												type="checkbox"
+												checked={checkedBooks["Glassmaking"]?.[index] || false}
+												onChange={() =>
+													handleCheckboxChange(
+														"Glassmaking",
+														index,
+														setCheckedBooks,
+														STORAGE_KEY
+													)
+												}
+											/>
+											{book.Icon && <img src={book.Icon} alt={book.Name} />}
+											<span>
+												{ROMAN_1_TO_5[index]}: {book.Name}
+											</span>
+										</label>
+									</li>
+								))}
+							</ul>
+						</AccordionTab>
+					</Accordion>
+				</div>
+			</div>
 		</div>
 	);
 };
 
-export default Glassmaking;
+export default GlassMakingPage;
