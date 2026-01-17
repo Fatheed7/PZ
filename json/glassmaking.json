@@ -1,0 +1,21 @@
+{
+	"Getting Started (Required Items)": [
+		{ "Icon": "./icons/Crafted_01_16.png", "Name": "Furnace" },
+		{ "Icon": "./icons/Ceramic_Crucible_Fired.png", "Name": "Crucible" },
+		{
+			"Icon": "./icons/BlacksmithTongs.png",
+			"Name": "Tongs / Crude Tongs"
+		},
+		{
+			"Icon": "./icons/Charcoal.png",
+			"Name": "Charcoal"
+		}
+	],
+	"Some recipes require extra tools": [
+		{
+			"Icon": "./icons/Ceramic_Glasspipe_Unfired.png",
+			"Name": "Glass Blowing Pipe"
+		},
+		{ "Icon": "./icons/Pliers.png", "Name": "Pliers" }
+	]
+}
