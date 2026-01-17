@@ -44,3 +44,19 @@
 .button-absolute {
 	position: absolute;
 }
+
+.p-accordion-header-link {
+	padding: 0.5rem !important;
+}
+
+.p-sidebar-left .p-sidebar {
+	width: unset !important;
+}
+
+.p-tooltip-text {
+	box-shadow: none !important;
+}
+
+.pz-nav-link {
+	text-decoration: none !important;
+}

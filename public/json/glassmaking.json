@@ -1,18 +1,31 @@
 {
-	"Getting Started": [
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Better Gardening" },
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Growing Food at Home" },
+	"The Essentials": [
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "Liam Keating's Subsistence Farming"
+			"Icon": "./icons/Crafted_01_16.png",
+			"Name": "Furnace"
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "The Science of Crop Genetics and Yields"
+			"Icon": "./icons/Ceramic_Crucible_Fired.png",
+			"Name": "Crucible"
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "USDA Guide to Agricultural Output Maximization"
+			"Icon": "./icons/BlacksmithTongs.png",
+			"Name": "Tongs"
+		},
+		{
+			"Icon": "./icons/Charcoal.png",
+			"Name": "Charcoal",
+			"Tooltip": ["Wood Charcoal", "Coke"]
+		}
+	],
+	"Other Useful Tools (Used in Recipes)": [
+		{
+			"Icon": "./icons/Ceramic_Glasspipe_Unfired.png",
+			"Name": "Glass Blowing Pipe"
+		},
+		{
+			"Icon": "./icons/Screwdriver_Blue.png",
+			"Name": "Pliers"
 		}
 	]
 }

@@ -27,10 +27,7 @@ function SidebarComponent({ visible, onHide }) {
 											viewBox="0 0 35 40"
 											fill="none"
 											xmlns="http://www.w3.org/2000/svg"
-										>
-											<path d="..." fill="var(--primary-color)" />
-											<path d="..." fill="var(--text-color)" />
-										</svg>
+										></svg>
 										<span className="font-semibold text-2xl text-primary">
 											PZ Tracker
 										</span>
@@ -55,10 +52,20 @@ function SidebarComponent({ visible, onHide }) {
 													<li>
 														<Link
 															to="/"
-															className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+															className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 														>
 															<span>📖</span>
 															<span className="font-medium">Books</span>
+															<Ripple />
+														</Link>
+													</li>
+													<li>
+														<Link
+															to="/magazine"
+															className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
+														>
+															<span>📰</span>
+															<span className="font-medium">Magazines</span>
 															<Ripple />
 														</Link>
 													</li>
@@ -73,7 +80,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/blacksmithing"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🔨</span>
 														<span className="font-medium">Blacksmithing</span>
@@ -83,7 +90,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/carpentry"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🛠️</span>
 														<span className="font-medium">Carpentry</span>
@@ -93,7 +100,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/carving"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🔪</span>
 														<span className="font-medium">Carving</span>
@@ -103,7 +110,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/cooking"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🍳</span>
 														<span className="font-medium">Cooking</span>
@@ -113,7 +120,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/electrical"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>⚡</span>
 														<span className="font-medium">Electrical</span>
@@ -123,7 +130,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/glassmaking"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🥛</span>
 														<span className="font-medium">Glassmaking</span>
@@ -133,7 +140,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/knapping"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🗿</span>
 														<span className="font-medium">Knapping</span>
@@ -143,7 +150,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/masonry"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🧱</span>
 														<span className="font-medium">Masonry</span>
@@ -153,7 +160,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/mechanics"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>⚙️</span>
 														<span className="font-medium">Mechanics</span>
@@ -163,7 +170,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/pottery"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🏺</span>
 														<span className="font-medium">Pottery</span>
@@ -173,7 +180,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/tailoring"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>✂️</span>
 														<span className="font-medium">Tailoring</span>
@@ -183,7 +190,7 @@ function SidebarComponent({ visible, onHide }) {
 												<li>
 													<Link
 														to="/welding"
-														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full"
+														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🔥</span>
 														<span className="font-medium">Welding</span>

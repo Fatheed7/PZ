@@ -1,0 +1,81 @@
+{
+	"Useful Items": [
+		{
+			"Icon": "./icons/KnifeChopping.png",
+			"Name": "Sharp Knife",
+			"Tooltip": [
+				"Straight Razor",
+				"Sharp Flint Flake",
+				"Machete",
+				"Scrap Metal Chopper",
+				"Machete",
+				"Simple Metal Knife",
+				"Fighting Knife",
+				"Stone Knife",
+				"Handguard Dagger",
+				"Handiknife",
+				"Hunting Knife",
+				"Hunting Knife",
+				"Kitchen Knife",
+				"Kitchen Knife",
+				"Butterfly Knife",
+				"Fillet Knife",
+				"Paring Knife",
+				"Pocket Knife",
+				"Sushi Knife",
+				"Large Knife",
+				"Scrap Metal Large Knife",
+				"Long Simple Metal Knife",
+				"Machete Blade Knife",
+				"Multitool",
+				"Railroad Spike Knife",
+				"Small Knife",
+				"Steak Knife",
+				"Long Stone Knife",
+				"Switchblade",
+				"Meat Cleaver"
+			]
+		},
+		{ "Icon": "./icons/RollingPin.png", "Name": "Rolling Pin" },
+		{
+			"Icon": "./icons/Spatula.png",
+			"Name": "Mixing Utensil",
+			"Tooltip": [
+				"Plastic Spork",
+				"Spatula",
+				"Whisk",
+				"Plastic Fork",
+				"Plastic Spoon",
+				"Wooden Fork",
+				"Wooden Spoon",
+				"Wooden Trowel",
+				"Fork",
+				"Gold Fork",
+				"Silver Fork",
+				"Bone Fork",
+				"Forged Fork",
+				"Spoon",
+				"Gold Spoon",
+				"Silver Spoon",
+				"Bone Spoon",
+				"Forged Spoon",
+				""
+			]
+		},
+		{
+			"Icon": "./icons/Bowl.png",
+			"Name": "Bowl"
+		},
+		{
+			"Icon": "./icons/CanOpener.png",
+			"Name": "Can Opener",
+			"Tooltip": [
+				"P38 Can Opener",
+				"Sheet Metal Snips",
+				"Handiknife",
+				"Multitool",
+				"Can Opener - Old-Fashioned"
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"Getting Started": [
+		{ "Icon": "./images/BookAgriculture.png", "Name": "Better Gardening" },
+		{ "Icon": "./images/BookAgriculture.png", "Name": "Growing Food at Home" },
+		{
+			"Icon": "./images/BookAgriculture.png",
+			"Name": "Liam Keating's Subsistence Farming"
+		},
+		{
+			"Icon": "./images/BookAgriculture.png",
+			"Name": "The Science of Crop Genetics and Yields"
+		},
+		{
+			"Icon": "./images/BookAgriculture.png",
+			"Name": "USDA Guide to Agricultural Output Maximization"
+		}
+	]
+}

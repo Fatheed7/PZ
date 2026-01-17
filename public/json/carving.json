@@ -1,0 +1,60 @@
+{
+	"The Essentials": [
+		{
+			"Icon": "./icons/KnifeChopping.png",
+			"Name": "Sharp Knife",
+			"Tooltip": [
+				"Straight Razor",
+				"Sharp Flint Flake",
+				"Machete",
+				"Scrap Metal Chopper",
+				"Machete",
+				"Simple Metal Knife",
+				"Fighting Knife",
+				"Stone Knife",
+				"Handguard Dagger",
+				"Handiknife",
+				"Hunting Knife",
+				"Hunting Knife",
+				"Kitchen Knife",
+				"Kitchen Knife",
+				"Butterfly Knife",
+				"Fillet Knife",
+				"Paring Knife",
+				"Pocket Knife",
+				"Sushi Knife",
+				"Large Knife",
+				"Scrap Metal Large Knife",
+				"Long Simple Metal Knife",
+				"Machete Blade Knife",
+				"Multitool",
+				"Railroad Spike Knife",
+				"Small Knife",
+				"Steak Knife",
+				"Long Stone Knife",
+				"Switchblade",
+				"Meat Cleaver"
+			]
+		}
+	],
+	"Other Useful Tools (Used in Recipes)": [
+		{
+			"Icon": "./icons/Ceramic_Glasspipe_Unfired.png",
+			"Name": "Saw"
+		},
+		{
+			"Icon": "./icons/Drill_OldFashioned.png",
+			"Name": "Hand Drill"
+		},
+		{
+			"Icon": "./icons/Whetstone2.png",
+			"Name": "Whetstone",
+			"Tooltip": ["Improvised Whetstone"]
+		},
+		{
+			"Icon": "./icons/LargeFile_Forged.png",
+			"Name": "File",
+			"Tooltip": ["Small File Set"]
+		}
+	]
+}
