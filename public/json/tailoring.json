@@ -1,18 +1,18 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "./icons/Needle.png",
+			"Icon": "/icons/Needle.png",
 			"Name": "Needle",
 			"Tooltip": ["Bone Needle", "Brass Needle", "Forged Needle"]
 		},
 		{
-			"Icon": "./icons/Thread.png",
+			"Icon": "/icons/Thread.png",
 			"Name": "Thread"
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "./icons/Scissors.png",
+			"Icon": "/icons/Scissors.png",
 			"Name": "Scissors",
 			"Tooltip": [
 				"Medical Shears",
@@ -22,7 +22,7 @@
 			]
 		},
 		{
-			"Icon": "./icons/KnifeChopping.png",
+			"Icon": "/icons/KnifeChopping.png",
 			"Name": "Sharp Knife",
 			"Tooltip": [
 				"Straight Razor",
@@ -58,7 +58,7 @@
 			]
 		},
 		{
-			"Icon": "./icons/Hammer.png",
+			"Icon": "/icons/Hammer.png",
 			"Name": "Hammer",
 			"Tooltip": [
 				"Ball Peen Hammer",
@@ -70,16 +70,16 @@
 			]
 		},
 		{
-			"Icon": "./icons/BlacksmithTongs.png",
+			"Icon": "/icons/BlacksmithTongs.png",
 			"Name": "Tongs"
 		},
 		{
-			"Icon": "./icons/ViseGrip.png",
+			"Icon": "/icons/ViseGrip.png",
 			"Name": "Vise Grips",
 			"Tooltip": ["Metalworking Pliers"]
 		},
 		{
-			"Icon": "./icons/Awl_Leather.png",
+			"Icon": "/icons/Awl_Leather.png",
 			"Name": "Awl",
 			"Tooltip": [
 				"Awl - Bone",
@@ -91,36 +91,36 @@
 			]
 		},
 		{
-			"Icon": "./icons/HeaderTool.png",
+			"Icon": "/icons/HeaderTool.png",
 			"Name": "Heading Tool"
 		},
 		{
-			"Icon": "./icons/KnittingNeedles.png",
+			"Icon": "/icons/KnittingNeedles.png",
 			"Name": "Knitting Needles",
 			"Tooltip": ["Knitting Needles - Bone", "Knitting Needles - Wood"]
 		},
 		{
-			"Icon": "./icons/Pliers.png",
+			"Icon": "/icons/Pliers.png",
 			"Name": "Pliers",
 			"Tooltip": ["Metalworking Pliers", "Multitool"]
 		},
 		{
-			"Icon": "./icons/Handsaw.png",
+			"Icon": "/icons/Handsaw.png",
 			"Name": "Saw",
 			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
 		},
 		{
-			"Icon": "./icons/WeldingMask.png",
+			"Icon": "/icons/WeldingMask.png",
 			"Name": "Welder Mask",
 			"Tooltip": ["Old Welding Goggles"]
 		},
 		{
-			"Icon": "./icons/Wrench.png",
+			"Icon": "/icons/Wrench.png",
 			"Name": "Wrench",
 			"Tooltip": ["Ratchet Wrench"]
 		},
 		{
-			"Icon": "./icons/Boltcutters.png",
+			"Icon": "/icons/Boltcutters.png",
 			"Name": "Bolt Cutters"
 		}
 	]

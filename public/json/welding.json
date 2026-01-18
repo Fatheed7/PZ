@@ -1,54 +1,54 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "./icons/BlowTorch.png",
+			"Icon": "/icons/BlowTorch.png",
 			"Name": "Welding Torch"
 		},
 		{
-			"Icon": "./icons/PropaneTank.png",
+			"Icon": "/icons/PropaneTank.png",
 			"Name": "Propane Tank"
 		},
 		{
-			"Icon": "./icons/WeldingMask.png",
+			"Icon": "/icons/WeldingMask.png",
 			"Name": "Welder Mask",
 			"Tooltip": ["Old Welding Goggles"]
 		},
 		{
-			"Icon": "./icons/WeldingRods.png",
+			"Icon": "/icons/WeldingRods.png",
 			"Name": "Welding Rods"
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "./icons/SheetMetal.png",
+			"Icon": "/icons/SheetMetal.png",
 			"Name": "Steel Sheet",
 			"Tooltip": ["Steel Sheet - Small"]
 		},
 		{
-			"Icon": "./icons/Pliers.png",
+			"Icon": "/icons/Pliers.png",
 			"Name": "Pliers",
 			"Tooltip": ["Metalworking Pliers", "Multitool"]
 		},
 		{
-			"Icon": "./icons/Wrench.png",
+			"Icon": "/icons/Wrench.png",
 			"Name": "Wrench",
 			"Tooltip": ["Ratchet Wrench"]
 		},
 		{
-			"Icon": "./icons/Handsaw.png",
+			"Icon": "/icons/Handsaw.png",
 			"Name": "Saw",
 			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
 		},
 		{
-			"Icon": "./icons/Punch_Forged.png",
+			"Icon": "/icons/Punch_Forged.png",
 			"Name": "Metalworking Punch"
 		},
 		{
-			"Icon": "./icons/Drill_OldFashioned.png",
+			"Icon": "/icons/Drill_OldFashioned.png",
 			"Name": "Hand Drill"
 		},
 		{
-			"Icon": "./icons/Hammer.png",
+			"Icon": "/icons/Hammer.png",
 			"Name": "Hammer",
 			"Tooltip": [
 				"Ball-peen Hammer",
@@ -60,7 +60,7 @@
 			]
 		},
 		{
-			"Icon": "./icons/Scissors.png",
+			"Icon": "/icons/Scissors.png",
 			"Name": "Scissors",
 			"Tooltip": [
 				"Medical Shears",
@@ -70,7 +70,7 @@
 			]
 		},
 		{
-			"Icon": "./icons/KnifeChopping.png",
+			"Icon": "/icons/KnifeChopping.png",
 			"Name": "Sharp Knife",
 			"Tooltip": [
 				"Straight Razor",
@@ -106,7 +106,7 @@
 			]
 		},
 		{
-			"Icon": "./icons/Awl_Leather.png",
+			"Icon": "/icons/Awl_Leather.png",
 			"Name": "Awl",
 			"Tooltip": [
 				"Awl - Bone",
@@ -118,12 +118,12 @@
 			]
 		},
 		{
-			"Icon": "./icons/Needle.png",
+			"Icon": "/icons/Needle.png",
 			"Name": "Needle",
 			"Tooltip": ["Bone Needle", "Brass Needle", "Forged Needle"]
 		},
 		{
-			"Icon": "./icons/Boltcutters.png",
+			"Icon": "/icons/Boltcutters.png",
 			"Name": "Bolt Cutters"
 		}
 	]

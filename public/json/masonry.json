@@ -1,13 +1,13 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "./icons/MasonTrowel.png",
+			"Icon": "/icons/MasonTrowel.png",
 			"Name": "Mason's Trowel",
 			"Tooltip": ["Wooden Trowel"]
 		},
-		{ "Icon": "./icons/Chisel_Forged.png", "Name": "Mason's Chisel" },
+		{ "Icon": "/icons/Chisel_Forged.png", "Name": "Mason's Chisel" },
 		{
-			"Icon": "./icons/Hammer.png",
+			"Icon": "/icons/Hammer.png",
 			"Name": "Hammer",
 			"Tooltip": [
 				"Ball Peen Hammer",
@@ -21,19 +21,19 @@
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "./icons/Pickaxe_Forged.png",
+			"Icon": "/icons/Pickaxe_Forged.png",
 			"Name": "Pickaxe"
 		},
 		{
-			"Icon": "./icons/Sledgehammer2.png",
+			"Icon": "/icons/Sledgehammer2.png",
 			"Name": "Sledgehammer"
 		},
 		{
-			"Icon": "./icons/StoneChisel.png",
+			"Icon": "/icons/StoneChisel.png",
 			"Name": "Stone Chisel"
 		},
 		{
-			"Icon": "./icons/MetalBucket_Concrete.png",
+			"Icon": "/icons/MetalBucket_Concrete.png",
 			"Name": "Concrete",
 			"Tooltip": [
 				"Bucket of Clay Cement",
@@ -43,15 +43,15 @@
 			]
 		},
 		{
-			"Icon": "./icons/ClayBrick_Fired.png",
+			"Icon": "/icons/ClayBrick_Fired.png",
 			"Name": "Brick"
 		},
 		{
-			"Icon": "./icons/Rock.png",
+			"Icon": "/icons/Rock.png",
 			"Name": "Stone"
 		},
 		{
-			"Icon": "./icons/RoughBlock.png",
+			"Icon": "/icons/RoughBlock.png",
 			"Name": "Stone Block"
 		}
 	]

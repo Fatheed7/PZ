@@ -1,7 +1,7 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "./icons/Hammer.png",
+			"Icon": "/icons/Hammer.png",
 			"Name": "Hammer",
 			"Tooltip": [
 				"Ball-peen Hammer",
@@ -13,19 +13,19 @@
 			]
 		},
 		{
-			"Icon": "./icons/Handsaw.png",
+			"Icon": "/icons/Handsaw.png",
 			"Name": "Saw",
 			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "./icons/Screwdriver_Blue.png",
+			"Icon": "/icons/Screwdriver_Blue.png",
 			"Name": "Screwdriver",
 			"Tooltip": ["Handiknife", "Multitool", "Improvised Screwdriver"]
 		},
 		{
-			"Icon": "./icons/Drill_OldFashioned.png",
+			"Icon": "/icons/Drill_OldFashioned.png",
 			"Name": "Hand Drill"
 		}
 	]

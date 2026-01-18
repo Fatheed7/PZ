@@ -1,47 +1,47 @@
 {
 	"Useful Tools": [
 		{
-			"Icon": "./icons/CarJack.png",
+			"Icon": "/icons/CarJack.png",
 			"Name": "Jack"
 		},
 		{
-			"Icon": "./icons/LugWrench.png",
+			"Icon": "/icons/LugWrench.png",
 			"Name": "Lug Wrench"
 		},
 		{
-			"Icon": "./icons/TirePump.png",
+			"Icon": "/icons/TirePump.png",
 			"Name": "Tire Pump"
 		},
 		{
-			"Icon": "./icons/Wrench.png",
+			"Icon": "/icons/Wrench.png",
 			"Name": "Wrench",
 			"Tooltip": ["Ratchet Wrench"]
 		},
 		{
-			"Icon": "./icons/Screwdriver_Blue.png",
+			"Icon": "/icons/Screwdriver_Blue.png",
 			"Name": "Screwdriver",
 			"Tooltip": ["Handiknife", "Multitool", "Improvised Screwdriver"]
 		},
 		{
-			"Icon": "./icons/BlowTorch.png",
+			"Icon": "/icons/BlowTorch.png",
 			"Name": "Welding Torch"
 		},
 		{
-			"Icon": "./icons/WeldingMask.png",
+			"Icon": "/icons/WeldingMask.png",
 			"Name": "Welder Mask",
 			"Tooltip": ["Old Welding Goggles"]
 		},
 		{
-			"Icon": "./icons/SheetMetal.png",
+			"Icon": "/icons/SheetMetal.png",
 			"Name": "Steel Sheet",
 			"Tooltip": ["Steel Sheet - Small"]
 		},
 		{
-			"Icon": "./icons/Glue.png",
+			"Icon": "/icons/Glue.png",
 			"Name": "Glue"
 		},
 		{
-			"Icon": "./icons/DuctTape.png",
+			"Icon": "/icons/DuctTape.png",
 			"Name": "Duct Tape"
 		}
 	]

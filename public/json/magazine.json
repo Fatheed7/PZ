@@ -1,7 +1,7 @@
 {
 	"Non-Skill Specific": [
 		{
-			"Icon": "./icons/Magazine_Alpine1.png",
+			"Icon": "/icons/Magazine_Alpine1.png",
 			"Name": "Alpine Explorers",
 			"Recipes": [
 				"Make Advanced Framepack Frame",
@@ -13,7 +13,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Alpine_Explorers"
 		},
 		{
-			"Icon": "./icons/Magazine_NeolithicClothes.png",
+			"Icon": "/icons/Magazine_NeolithicClothes.png",
 			"Name": "Ancient Tailoring",
 			"Recipes": [
 				"Carve Bone Awl",
@@ -26,7 +26,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Ancient_Tailoring"
 		},
 		{
-			"Icon": "./icons/Magazine_EarlyArmour2.png",
+			"Icon": "/icons/Magazine_EarlyArmour2.png",
 			"Name": "Armor in the Iron Age",
 			"Recipes": [
 				"Assemble Forearm Armor",
@@ -40,13 +40,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Armor_in_the_Iron_Age"
 		},
 		{
-			"Icon": "./icons/Magazine_Wrestling1.png",
+			"Icon": "/icons/Magazine_Wrestling1.png",
 			"Name": "Bloody Japanese Wrestling Deathmatch!",
 			"Recipes": ["Barbed-Wire Wrap Weapon"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Bloody_Japanese_Wrestling_Deathmatch!"
 		},
 		{
-			"Icon": "./icons/Magazine_Cowboy1.png",
+			"Icon": "/icons/Magazine_Cowboy1.png",
 			"Name": "Cowboy Living",
 			"Recipes": [
 				"Sew Holster",
@@ -60,7 +60,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Cowboy_Living"
 		},
 		{
-			"Icon": "./icons/Magazine_Prehistory1.png",
+			"Icon": "/icons/Magazine_Prehistory1.png",
 			"Name": "Cultures of Prehistory",
 			"Recipes": [
 				"Carve Bone Fishing Hook",
@@ -74,7 +74,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Cultures_of_Prehistory"
 		},
 		{
-			"Icon": "./icons/Magazine_EarlyArmour.png",
+			"Icon": "/icons/Magazine_EarlyArmour.png",
 			"Name": "Early Indigenous Armor - An In-Depth Study",
 			"Recipes": [
 				"Make Bone Body Armor",
@@ -92,7 +92,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Early_Indigenous_Armor_-_An_In-Depth_Study"
 		},
 		{
-			"Icon": "./icons/Magazine_EarlyArmour3.png",
+			"Icon": "/icons/Magazine_EarlyArmour3.png",
 			"Name": "European Armor in the Late Medieval Era",
 			"Recipes": [
 				"Assemble Shoulder Armor",
@@ -109,13 +109,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_European_Armor_in_the_Late_Medieval_Era"
 		},
 		{
-			"Icon": "./icons/PaperReport1.png",
+			"Icon": "/icons/PaperReport1.png",
 			"Name": "FBI Incident Report: San Fernando Bank Robbery",
 			"Recipes": ["Make Bulletproof Limb Armor"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_FBI_Incident_Report:_San_Fernando_Bank_Robbery"
 		},
 		{
-			"Icon": "./icons/Magazine_Outdoors2.png",
+			"Icon": "/icons/Magazine_Outdoors2.png",
 			"Name": "Fun in the Woods!",
 			"Recipes": [
 				"Assemble Small Simple Framepack",
@@ -126,7 +126,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Fun_in_the_Woods!"
 		},
 		{
-			"Icon": "./icons/Magazine_Homestead1.png",
+			"Icon": "/icons/Magazine_Homestead1.png",
 			"Name": "Homespun",
 			"Recipes": [
 				"Sew Knee-Length Dress",
@@ -142,7 +142,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Homespun"
 		},
 		{
-			"Icon": "./icons/Magazine_Leather1.png",
+			"Icon": "/icons/Magazine_Leather1.png",
 			"Name": "Leather Crafts",
 			"Recipes": [
 				"Sew Hide Wallet",
@@ -154,7 +154,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Leather_Crafts"
 		},
 		{
-			"Icon": "./icons/Magazine_MedievalPeasantClothes.png",
+			"Icon": "/icons/Magazine_MedievalPeasantClothes.png",
 			"Name": "Medieval Peasant Clothing",
 			"Recipes": [
 				"Sew Hide Boots",
@@ -165,7 +165,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Medieval_Peasant_Clothing"
 		},
 		{
-			"Icon": "./icons/Magazine_War1.png",
+			"Icon": "/icons/Magazine_War1.png",
 			"Name": "No Man's Land",
 			"Recipes": [
 				"Can-Reinforce Weapon",
@@ -175,7 +175,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_No_Man%27s_Land"
 		},
 		{
-			"Icon": "./icons/Magazine_Outdoors1.png",
+			"Icon": "/icons/Magazine_Outdoors1.png",
 			"Name": "Outdoor Gear, Done Right",
 			"Recipes": [
 				"Sew Leather Gaiter",
@@ -187,7 +187,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Outdoor_Gear,_Done_Right"
 		},
 		{
-			"Icon": "./icons/Magazine_War2.png",
+			"Icon": "/icons/Magazine_War2.png",
 			"Name": "Outfit Apocalypse",
 			"Recipes": [
 				"Make Tire Body Armor",
@@ -202,7 +202,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Outfit_Apocalypse"
 		},
 		{
-			"Icon": "./icons/Magazine_Carving.png",
+			"Icon": "/icons/Magazine_Carving.png",
 			"Name": "Pioneering Carvers",
 			"Recipes": [
 				"Carve Knitting Needles",
@@ -215,13 +215,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Pioneering_Carvers"
 		},
 		{
-			"Icon": "./icons/Magazine_PunkFashion.png",
+			"Icon": "/icons/Magazine_PunkFashion.png",
 			"Name": "Punk Fashion - From Trash to Thrash",
 			"Recipes": ["Make Garbage Bag Tank Top", "Make Garbage Bag Dress"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Punk_Fashion_-_From_Trash_to_Thrash"
 		},
 		{
-			"Icon": "./icons/Magazine_Gladiatorpng.png",
+			"Icon": "/icons/Magazine_Gladiatorpng.png",
 			"Name": "Real Gladiators",
 			"Recipes": [
 				"Sew Leather Vambrace",
@@ -233,13 +233,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Real_Gladiators"
 		},
 		{
-			"Icon": "./icons/Magazine_Spy1.png",
+			"Icon": "/icons/Magazine_Spy1.png",
 			"Name": "Real Spy Secrets - May 1993",
 			"Recipes": ["Hollow Out Book"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Real_Spy_Secrets_-_May_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_History_PeasantRevolt.png",
+			"Icon": "/icons/Magazine_History_PeasantRevolt.png",
 			"Name": "Revolting Peasants",
 			"Recipes": [
 				"Make Garden Fork Head Weapon",
@@ -250,7 +250,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Revolting_Peasants"
 		},
 		{
-			"Icon": "./icons/Magazine_OutbackArmour.png",
+			"Icon": "/icons/Magazine_OutbackArmour.png",
 			"Name": "Secrets of the Outback Outlaws",
 			"Recipes": [
 				"Make Scrap Metal Helmet",
@@ -261,7 +261,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Secrets_of_the_Outback_Outlaws"
 		},
 		{
-			"Icon": "./icons/Magazine_StrangeHistory.png",
+			"Icon": "/icons/Magazine_StrangeHistory.png",
 			"Name": "Strange Histories - Siberian Bear Hunting",
 			"Recipes": [
 				"Spike Soft Armor",
@@ -272,19 +272,19 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Strange_Histories_-_Siberian_Bear_Hunting"
 		},
 		{
-			"Icon": "./icons/Magazine_Underground4.png",
+			"Icon": "/icons/Magazine_Underground4.png",
 			"Name": "The Cheapskate's John Spiral - Escaping Captivity",
 			"Recipes": ["Copy Building Key", "Make Improvised Screwdriver"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Cheapskate%27s_John_Spiral_-_Escaping_Captivity"
 		},
 		{
-			"Icon": "./icons/Magazine_Underground5.png",
+			"Icon": "/icons/Magazine_Underground5.png",
 			"Name": "The Cheapskate's John Spiral - Forging New Identities",
 			"Recipes": ["Make Blank ID"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Cheapskate%27s_John_Spiral_-_Forging_New_Identities"
 		},
 		{
-			"Icon": "./icons/Magazine_Underground1.png",
+			"Icon": "/icons/Magazine_Underground1.png",
 			"Name": "The Cheapskate's John Spiral - Prison Defense",
 			"Recipes": [
 				"Make Shiv",
@@ -296,7 +296,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Cheapskate%27s_John_Spiral_-_Prison_Defense"
 		},
 		{
-			"Icon": "./icons/Magazine_Underground2.png",
+			"Icon": "/icons/Magazine_Underground2.png",
 			"Name": "The Cheapskate's John Spiral - Street Violence",
 			"Recipes": [
 				"Make Rake-Head-Spiked Weapon",
@@ -310,7 +310,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Cheapskate%27s_John_Spiral_-_Street_Violence"
 		},
 		{
-			"Icon": "./icons/Magazine_War3.png",
+			"Icon": "/icons/Magazine_War3.png",
 			"Name": "The First Weapons",
 			"Recipes": [
 				"Carve Bone War Hatchet Head",
@@ -325,13 +325,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_First_Weapons"
 		},
 		{
-			"Icon": "./icons/Magazine_Baseball.png",
+			"Icon": "/icons/Magazine_Baseball.png",
 			"Name": "The Louisville Bruiser",
 			"Recipes": ["Carve Bat"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Louisville_Bruiser"
 		},
 		{
-			"Icon": "./icons/Magazine_EarlyToolmaking.png",
+			"Icon": "/icons/Magazine_EarlyToolmaking.png",
 			"Name": "Tool Use of Early Man",
 			"Recipes": [
 				"Knap Large Stone Axe Head",
@@ -348,13 +348,13 @@
 	],
 	"Agriculture": [
 		{
-			"Icon": "./icons/MagazineFarming5.png",
+			"Icon": "/icons/MagazineFarming5.png",
 			"Name": "American Homesteading",
 			"Recipes": ["Make Jar of Produce"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_American_Homesteading"
 		},
 		{
-			"Icon": "./icons/Magazine_Gardening1.png",
+			"Icon": "/icons/Magazine_Gardening1.png",
 			"Name": "Blooms and Blossoms",
 			"Recipes": [
 				"Chamomile Growing Season",
@@ -367,7 +367,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Blooms_and_Blossoms"
 		},
 		{
-			"Icon": "./icons/MagazineFarming1.png",
+			"Icon": "/icons/MagazineFarming1.png",
 			"Name": "Cropping for Cash",
 			"Recipes": [
 				"Barley Growing Season",
@@ -382,7 +382,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Cropping_for_Cash"
 		},
 		{
-			"Icon": "./icons/Magazine_Farming6.png",
+			"Icon": "/icons/Magazine_Farming6.png",
 			"Name": "Growing Your Own",
 			"Recipes": [
 				"Bell Pepper Growing Season",
@@ -413,13 +413,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Growing_Your_Own"
 		},
 		{
-			"Icon": "./icons/Magazine_Farming7.png",
+			"Icon": "/icons/Magazine_Farming7.png",
 			"Name": "Kentucky Farmer - June 1993",
 			"Recipes": ["Make Mildew Cure"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Kentucky_Farmer_-_June_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Farming8.png",
+			"Icon": "/icons/Magazine_Farming8.png",
 			"Name": "Kentucky Farmer - May 1993",
 			"Recipes": [
 				"Make Flies Cure from Cigarettes",
@@ -430,19 +430,19 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Kentucky_Farmer_-_May_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Hemp1.png",
+			"Icon": "/icons/Magazine_Hemp1.png",
 			"Name": "Legalize It!",
 			"Recipes": ["Hemp Growing Season"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Legalize_It!"
 		},
 		{
-			"Icon": "./icons/Magazine_Farming9.png",
+			"Icon": "/icons/Magazine_Farming9.png",
 			"Name": "The Farmers Guide",
 			"Recipes": ["Make Scarecrow", "Make Barbed Wire from Wire"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Farmers_Guide"
 		},
 		{
-			"Icon": "./icons/Magazine_Farming10.png",
+			"Icon": "/icons/Magazine_Farming10.png",
 			"Name": "Thyme Time",
 			"Recipes": [
 				"Basil Growing Season",
@@ -460,7 +460,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Thyme_Time"
 		},
 		{
-			"Icon": "./icons/MagazineFood.png",
+			"Icon": "/icons/MagazineFood.png",
 			"Name": "Wilderness Survival",
 			"Recipes": [
 				"Black Sage Growing Season",
@@ -474,7 +474,7 @@
 	],
 	"Cooking": [
 		{
-			"Icon": "./icons/MagazineFood6.png",
+			"Icon": "/icons/MagazineFood6.png",
 			"Name": "Delicious Meals - June 1993",
 			"Recipes": [
 				"Prepare Breaded Shrimp",
@@ -485,13 +485,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Delicious_Meals_-_June_1993"
 		},
 		{
-			"Icon": "./icons/MagazineFood.png",
+			"Icon": "/icons/MagazineFood.png",
 			"Name": "Good Cooking - June 1993",
 			"Recipes": ["Make Cake Batter", "Prepare Pie Dough"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Good_Cooking_-_June_1993"
 		},
 		{
-			"Icon": "./icons/MagazineFood2.png",
+			"Icon": "/icons/MagazineFood2.png",
 			"Name": "Magazine: Good Cooking - May 1993",
 			"Recipes": [
 				"Prepare Bread Dough",
@@ -501,7 +501,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Good_Cooking_-_May_1993"
 		},
 		{
-			"Icon": "./icons/MagazineFood4.png",
+			"Icon": "/icons/MagazineFood4.png",
 			"Name": "Grandma's Kitchen",
 			"Recipes": [
 				"Prepare Chocolate Cookies",
@@ -513,13 +513,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Grandma%27s_Kitchen"
 		},
 		{
-			"Icon": "./icons/MagazineFood3.png",
+			"Icon": "/icons/MagazineFood3.png",
 			"Name": "Italian Delights",
 			"Recipes": ["Prepare Pizza"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Italian_Delights"
 		},
 		{
-			"Icon": "./icons/MagazineFood5.png",
+			"Icon": "/icons/MagazineFood5.png",
 			"Name": "World Cooking",
 			"Recipes": ["Prepare Sushi", "Prepare Maki", "Prepare Onigiri"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_World_Cooking"
@@ -527,19 +527,19 @@
 	],
 	"Electrical": [
 		{
-			"Icon": "./icons/MagazineElectronics01.png",
+			"Icon": "/icons/MagazineElectronics01.png",
 			"Name": "Guerilla Radio - June 1993",
 			"Recipes": ["Make Makeshift Radio"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Guerilla_Radio_-_June_1993"
 		},
 		{
-			"Icon": "./icons/MagazineMechanics.png",
+			"Icon": "/icons/MagazineMechanics.png",
 			"Name": "Guerilla Radio - May 1993",
 			"Recipes": ["Make Makeshift Ham Radio"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Guerilla_Radio_-_May_1993"
 		},
 		{
-			"Icon": "./icons/MagazineElectronics04.png",
+			"Icon": "/icons/MagazineElectronics04.png",
 			"Name": "Home Security Monthly",
 			"Recipes": [
 				"Add Short-Range Motion Sensor to Bomb",
@@ -549,37 +549,37 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Home_Security_Monthly"
 		},
 		{
-			"Icon": "./icons/MagazineElectronics02.png",
+			"Icon": "/icons/MagazineElectronics02.png",
 			"Name": "How to Use Generators",
 			"Recipes": ["Generator Maintenance"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_How_to_Use_Generators"
 		},
 		{
-			"Icon": "./icons/MagazineElectronics03.png",
+			"Icon": "/icons/MagazineElectronics03.png",
 			"Name": "Like Clockwork",
 			"Recipes": ["Make Timer", "Add Timer to Bomb"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Like_Clockwork"
 		},
 		{
-			"Icon": "./icons/Magazine_Spy2.png",
+			"Icon": "/icons/Magazine_Spy2.png",
 			"Name": "Real Spy Secrets - June 1993",
 			"Recipes": ["Make Noise Maker", "Make Firecracker"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Real_Spy_Secrets_-_June_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Electric.png",
+			"Icon": "/icons/Magazine_Electric.png",
 			"Name": "Sparky's Lighting Guide",
 			"Recipes": ["Make Improvised Flashlight", "Make Improvised Lantern"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Sparky%27s_Lighting_Guide"
 		},
 		{
-			"Icon": "./icons/Magazine_Electric2.png",
+			"Icon": "/icons/Magazine_Electric2.png",
 			"Name": "Sparky's Radio Guide",
 			"Recipes": ["Make Makeshift Walkie Talkie"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Sparky%27s_Radio_Guide"
 		},
 		{
-			"Icon": "./icons/Magazine_Underground3.png",
+			"Icon": "/icons/Magazine_Underground3.png",
 			"Name": "The Cheapskate's John Spiral - Chemical Warfare",
 			"Recipes": [
 				"Make Smoke Bomb",
@@ -590,13 +590,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Cheapskate%27s_John_Spiral_-_Chemical_Warfare"
 		},
 		{
-			"Icon": "./icons/Magazine_Underground6.png",
+			"Icon": "/icons/Magazine_Underground6.png",
 			"Name": "The Cheapskate's John Spiral - Homemade Explosives",
 			"Recipes": ["Make Aerosol Bomb", "Make Fire Bomb", "Make Pipe Bomb"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Cheapskate%27s_John_Spiral_-_Homemade_Explosives"
 		},
 		{
-			"Icon": "./icons/MagazineElectronics01.png",
+			"Icon": "/icons/MagazineElectronics01.png",
 			"Name": "Zapper!",
 			"Recipes": [
 				"Make Remote Controller (Short-Range)",
@@ -610,13 +610,13 @@
 	],
 	"Fishing": [
 		{
-			"Icon": "./icons/MagazineFish.png",
+			"Icon": "/icons/MagazineFish.png",
 			"Name": "Angler USA - June 1993",
 			"Recipes": ["Make Fishing Rod", "Fix Fishing Rod", "Make Chum Base"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Angler_USA_-_June_1993"
 		},
 		{
-			"Icon": "./icons/MagazineFish2.png",
+			"Icon": "/icons/MagazineFish2.png",
 			"Name": "Angler USA - May 1993",
 			"Recipes": ["Make Fishing Net", "Dismantle Fishing Net"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Angler_USA_-_May_1993"
@@ -624,7 +624,7 @@
 	],
 	"Foraging": [
 		{
-			"Icon": "./icons/Magazine_Survival1.png",
+			"Icon": "/icons/Magazine_Survival1.png",
 			"Name": "Wilderness Survival",
 			"Recipes": [
 				"Herbal Remedies",
@@ -641,19 +641,19 @@
 	],
 	"Glassmaking": [
 		{
-			"Icon": "./icons/Magazine_Glass3.png",
+			"Icon": "/icons/Magazine_Glass3.png",
 			"Name": "Bottle Making at Home",
 			"Recipes": ["Make Glass Bottle", "Make Glass Jar"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Bottle_Making_at_Home"
 		},
 		{
-			"Icon": "./icons/Magazine_Glass2.png",
+			"Icon": "/icons/Magazine_Glass2.png",
 			"Name": "Carlow Crystal Guide",
 			"Recipes": ["Make Drinking Glass", "Make Glass Pane"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Carlow_Crystal_Guide"
 		},
 		{
-			"Icon": "./icons/Magazine_Glass1.png",
+			"Icon": "/icons/Magazine_Glass1.png",
 			"Name": "Murano Glass Manual",
 			"Recipes": ["Make Wine Glass", "Make Lantern Glass"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Murano_Glass_Manual"
@@ -661,19 +661,19 @@
 	],
 	"Mechanics": [
 		{
-			"Icon": "./icons/MagazineMechanic1.png",
+			"Icon": "/icons/MagazineMechanic1.png",
 			"Name": "Laines Standard Auto Manual",
 			"Recipes": ["Basic Mechanics"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Laines_Standard_Auto_Manual"
 		},
 		{
-			"Icon": "./icons/MagazineMechanic2.png",
+			"Icon": "/icons/MagazineMechanic2.png",
 			"Name": " Laines Commercial Auto Manual",
 			"Recipes": ["Intermediate Mechanics"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Laines_Commercial_Auto_Manual"
 		},
 		{
-			"Icon": "./icons/MagazineMechanic3.png",
+			"Icon": "/icons/MagazineMechanic3.png",
 			"Name": "Laines Performance Auto Manual",
 			"Recipes": ["Advanced Mechanics"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Laines_Performance_Auto_Manual"
@@ -681,7 +681,7 @@
 	],
 	"Tailoring": [
 		{
-			"Icon": "./icons/Magazine_Knitting1.png",
+			"Icon": "/icons/Magazine_Knitting1.png",
 			"Name": "Woolly Yarns - June 1993",
 			"Recipes": [
 				"Knit Scarf",
@@ -693,7 +693,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Woolly_Yarns_-_June_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Knitting2.png",
+			"Icon": "/icons/Magazine_Knitting2.png",
 			"Name": "Woolly Yarns - May 1993",
 			"Recipes": [
 				"Knit Wool Hat",
@@ -706,25 +706,25 @@
 	],
 	"Trapping": [
 		{
-			"Icon": "./icons/Magazine_Taxidermy1.png",
+			"Icon": "/icons/Magazine_Taxidermy1.png",
 			"Name": "Get Stuffed",
 			"Recipes": ["Make Stag Head Trophy"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Get_Stuffed"
 		},
 		{
-			"Icon": "./icons/MagazineHunting.png",
+			"Icon": "/icons/MagazineHunting.png",
 			"Name": "Small Game Hunting",
 			"Recipes": ["Make Snare Trap"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Small_Game_Hunting"
 		},
 		{
-			"Icon": "./icons/MagazineHunting2.png",
+			"Icon": "/icons/MagazineHunting2.png",
 			"Name": "The Hunter",
 			"Recipes": ["Make Crate Trap", "Make Stick Trap"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_The_Hunter"
 		},
 		{
-			"Icon": "./icons/MagazineHunting3.png",
+			"Icon": "/icons/MagazineHunting3.png",
 			"Name": "Wildlife Preserve",
 			"Recipes": ["Make Box Trap", "Make Cage Trap"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Wildlife_Preserve"
@@ -732,7 +732,7 @@
 	],
 	"Welding": [
 		{
-			"Icon": "./icons/Magazine_Bladecraft1.png",
+			"Icon": "/icons/Magazine_Bladecraft1.png",
 			"Name": "American Bladecraft",
 			"Recipes": [
 				"Forge Meat Cleaver Blade",
@@ -748,7 +748,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_American_Bladecraft"
 		},
 		{
-			"Icon": "./icons/MagazineBlacksmith4.png",
+			"Icon": "/icons/MagazineBlacksmith4.png",
 			"Name": "Blunt Forge",
 			"Recipes": [
 				"Forge Claw Hammer Head",
@@ -761,7 +761,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Blunt_Forge"
 		},
 		{
-			"Icon": "./icons/MagazineBlacksmith3.png",
+			"Icon": "/icons/MagazineBlacksmith3.png",
 			"Name": "Everyday Smithing - April 1993",
 			"Recipes": [
 				"Forge Steel Sheet",
@@ -778,7 +778,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Everyday_Smithing_-_April_1993"
 		},
 		{
-			"Icon": "./icons/MagazineBlacksmith1.png",
+			"Icon": "/icons/MagazineBlacksmith1.png",
 			"Name": "Everyday Smithing - June 1993",
 			"Recipes": [
 				"Forge Tongs",
@@ -802,7 +802,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Everyday_Smithing_-_June_1993"
 		},
 		{
-			"Icon": "./icons/MagazineBlacksmith2.png",
+			"Icon": "/icons/MagazineBlacksmith2.png",
 			"Name": "Everyday Smithing - May 1993",
 			"Recipes": [
 				"Forge Kitchen Tools",
@@ -821,7 +821,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Everyday_Smithing_-_May_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Metalworking1.png",
+			"Icon": "/icons/Magazine_Metalworking1.png",
 			"Name": "Iron Age Blacksmithing",
 			"Recipes": [
 				"Construct Charcoal Pit",
@@ -831,7 +831,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Iron_Age_Blacksmithing"
 		},
 		{
-			"Icon": "./icons/Magazine_Armory2.png",
+			"Icon": "/icons/Magazine_Armory2.png",
 			"Name": "Medieval Armory - June 1993",
 			"Recipes": [
 				"Forge Crude Sword Blade",
@@ -845,7 +845,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Medieval_Armory_-_June_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Armory1.png",
+			"Icon": "/icons/Magazine_Armory1.png",
 			"Name": "Medieval Armory - May 1993",
 			"Recipes": [
 				"Forge Mace Head",
@@ -858,19 +858,19 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Medieval_Armory_-_May_1993"
 		},
 		{
-			"Icon": "./icons/Magazine_Metalworking2.png",
+			"Icon": "/icons/Magazine_Metalworking2.png",
 			"Name": "Medieval Blacksmithing",
 			"Recipes": ["Construct Smelting Furnace", "Construct Blast Furnace"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Medieval_Blacksmithing"
 		},
 		{
-			"Icon": "./icons/MagazineBlacksmith1.png",
+			"Icon": "/icons/MagazineBlacksmith1.png",
 			"Name": "Modern Blacksmithing at Home",
 			"Recipes": ["Construct Forge", "Construct Advanced Forge"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Modern_Blacksmithing_at_Home"
 		},
 		{
-			"Icon": "./icons/MagazineBlacksmith4.png",
+			"Icon": "/icons/MagazineBlacksmith4.png",
 			"Name": "Small-Scale Smithing",
 			"Recipes": [
 				"Forge Tweezers",
@@ -886,7 +886,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Small-Scale_Smithing"
 		},
 		{
-			"Icon": "./icons/MagazineWelding3.png",
+			"Icon": "/icons/MagazineWelding3.png",
 			"Name": "Welder Monthly - April 1993",
 			"Recipes": [
 				"Metal Big Pole Fence Gate",
@@ -904,7 +904,7 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Welder_Monthly_-_April_1993"
 		},
 		{
-			"Icon": "./icons/MagazineWelding1.png",
+			"Icon": "/icons/MagazineWelding1.png",
 			"Name": "Welder Monthly - June 1993",
 			"Recipes": [
 				"Metal Wall (Basic)",
@@ -920,13 +920,13 @@
 			"URL": "https://pzwiki.net/wiki/Magazine:_Welder_Monthly_-_June_1993"
 		},
 		{
-			"Icon": "./icons/MagazineWelding3.png",
+			"Icon": "/icons/MagazineWelding3.png",
 			"Name": "Welder Monthly - March 1993",
 			"Recipes": ["Make Metal Sheet", "Cut 4 Small Metal Sheets"],
 			"URL": "https://pzwiki.net/wiki/Magazine:_Welder_Monthly_-_March_1993"
 		},
 		{
-			"Icon": "./icons/MagazineWelding2.png",
+			"Icon": "/icons/MagazineWelding2.png",
 			"Name": "Welder Monthly - May 1993",
 			"Recipes": [
 				"Metal Counter",
