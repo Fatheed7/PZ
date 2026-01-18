@@ -37,7 +37,12 @@ const BookList = () => {
 												)
 											}
 										/>
-										{book.Icon && <img src={book.Icon} alt={book.Name} />}
+										{book.Icon && (
+											<img
+												src={`${import.meta.env.BASE_URL}` + book.Icon}
+												alt={book.Name}
+											/>
+										)}
 										<span>
 											{ROMAN_1_TO_5[index]}: {book.Name}
 										</span>

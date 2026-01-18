@@ -9,29 +9,26 @@ const staticTitles = {
 
 export default function TitleUpdater() {
 	const location = useLocation();
+	const path = location.pathname;
 
 	useEffect(() => {
 		let title = "404";
 
-		// Static routes
-		if (staticTitles[location.pathname]) {
-			title = staticTitles[location.pathname];
+		if (staticTitles[path]) {
+			title = staticTitles[path];
 		}
 
-		// Dynamic skill route
-		const skillMatch = matchPath("/:skill", location.pathname);
-
+		const skillMatch = matchPath("/:skill", path);
 		if (skillMatch) {
 			const skillKey = skillMatch.params.skill;
 			const skillConfig = SKILLS_CONFIG[skillKey];
-
 			if (skillConfig) {
 				title = skillConfig.name;
 			}
 		}
 
 		document.title = `PZ Checklist | ${title}`;
-	}, [location]);
+	}, [path]);
 
 	return null;
 }

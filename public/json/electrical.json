@@ -1,19 +1,19 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "/PZ/icons/Screwdriver_Blue.png",
+			"Icon": "/icons/Screwdriver_Blue.png",
 			"Name": "Screwdriver",
 			"Tooltip": ["Handiknife", "Multitool", "Improvised Screwdriver"]
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "/PZ/icons/Handsaw.png",
+			"Icon": "/icons/Handsaw.png",
 			"Name": "Saw",
 			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
 		},
 		{
-			"Icon": "/PZ/icons/Pliers.png",
+			"Icon": "/icons/Pliers.png",
 			"Name": "Pliers"
 		}
 	]

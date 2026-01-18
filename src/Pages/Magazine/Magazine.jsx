@@ -46,7 +46,9 @@ const MagazineList = () => {
 													/>
 													{magazine.Icon && (
 														<img
-															src={magazine.Icon}
+															src={
+																`${import.meta.env.BASE_URL}` + magazine.Icon
+															}
 															alt={magazine.Name}
 															style={{ height: "20px" }}
 														/>

@@ -67,7 +67,12 @@ const SkillPage = ({ skillName, jsonUrl, storageKey, title = skillName }) => {
 													)
 												}
 											/>
-											{book.Icon && <img src={book.Icon} alt={book.Name} />}
+											{book.Icon && (
+												<img
+													src={`${import.meta.env.BASE_URL}` + book.Icon}
+													alt={book.Name}
+												/>
+											)}
 											<span>
 												{ROMAN_1_TO_5[index]}: {book.Name}
 											</span>
@@ -106,7 +111,12 @@ const SkillPage = ({ skillName, jsonUrl, storageKey, title = skillName }) => {
 														}
 													/>
 													{magazine.Icon && (
-														<img src={magazine.Icon} alt={magazine.Name} />
+														<img
+															src={
+																`${import.meta.env.BASE_URL}` + magazine.Icon
+															}
+															alt={magazine.Name}
+														/>
 													)}
 													{magazine.Name}
 													<Tooltip
@@ -158,7 +168,11 @@ const SkillPage = ({ skillName, jsonUrl, storageKey, title = skillName }) => {
 													}
 												/>
 												{entry.Icon && (
-													<img src={entry.Icon} alt={entry.Name} width={32} />
+													<img
+														src={`${import.meta.env.BASE_URL}` + entry.Icon}
+														alt={entry.Name}
+														width={32}
+													/>
 												)}
 												<span>{entry.Name}</span>
 												{entry.Tooltip && (

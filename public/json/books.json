@@ -1,648 +1,648 @@
 {
 	"Agriculture": [
 		{
-			"Icon": "/PZ/icons/Book3.png",
+			"Icon": "/icons/Book3.png",
 			"Name": "Better Gardening",
 			"URL": "https://pzwiki.net/wiki/Agriculture_I:_%22Better_Gardening%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book3.png",
+			"Icon": "/icons/Book3.png",
 			"Name": "Growing Food at Home",
 			"URL": "https://pzwiki.net/wiki/Agriculture_II:_%22Growing_Food_at_Home%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book3.png",
+			"Icon": "/icons/Book3.png",
 			"Name": "Liam Keating's Subsistence Farming",
 			"URL": "https://pzwiki.net/wiki/Agriculture_III:_%22Liam_Keating%27s_Subsistence_Farming%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book3.png",
+			"Icon": "/icons/Book3.png",
 			"Name": "The Science of Crop Genetics and Yields",
 			"URL": "https://pzwiki.net/wiki/Agriculture_IV:_%22The_Science_of_Crop_Genetics_and_Yields%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book3.png",
+			"Icon": "/icons/Book3.png",
 			"Name": "USDA Guide to Agricultural Output Maximization",
 			"URL": "https://pzwiki.net/wiki/Agriculture_V:_%22USDA_Guide_to_Agricultural_Output_Maximization%22"
 		}
 	],
 	"Aiming": [
 		{
-			"Icon": "/PZ/icons/Book12.png",
+			"Icon": "/icons/Book12.png",
 			"Name": "Better Aiming",
 			"URL": "https://pzwiki.net/wiki/Aiming_I:_%22Better_Aiming%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book12.png",
+			"Icon": "/icons/Book12.png",
 			"Name": "Drawing and Shooting",
 			"URL": "https://pzwiki.net/wiki/Aiming_II:_%22Drawing_and_Shooting%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book12.png",
+			"Icon": "/icons/Book12.png",
 			"Name": "Leading Moving Targets",
 			"URL": "https://pzwiki.net/wiki/Aiming_III:_%22Leading_Moving_Targets%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book12.png",
+			"Icon": "/icons/Book12.png",
 			"Name": "Long Range Sniping Tactics",
 			"URL": "https://pzwiki.net/wiki/Aiming_IV:_%22Long_Range_Sniping_Tactics%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book12.png",
+			"Icon": "/icons/Book12.png",
 			"Name": "Secrets From the World's Best Snipers",
 			"URL": "https://pzwiki.net/wiki/Aiming_V:_%22Secrets_From_the_World%27s_Best_Snipers%22"
 		}
 	],
 	"Animal Care": [
 		{
-			"Icon": "/PZ/icons/Book14.png",
+			"Icon": "/icons/Book14.png",
 			"Name": "A Tale of St. Francis",
 			"URL": "https://pzwiki.net/wiki/Animal_Care_I:_%22A_Tale_of_St._Francis%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book14.png",
+			"Icon": "/icons/Book14.png",
 			"Name": "Animal Welfare Basics",
 			"URL": "https://pzwiki.net/wiki/Animal_Care_II:_%22Animal_Welfare_Basics%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book14.png",
+			"Icon": "/icons/Book14.png",
 			"Name": "How Animals Think: A Helpful Guide",
 			"URL": "https://pzwiki.net/wiki/Animal_Care_III:_%22How_Animals_Think:_A_Helpful_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book14.png",
+			"Icon": "/icons/Book14.png",
 			"Name": "The Wants and Needs of Diverse Fauna",
 			"URL": "https://pzwiki.net/wiki/Animal_Care_IV:_%22The_Wants_and_Needs_of_Diverse_Fauna%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book14.png",
+			"Icon": "/icons/Book14.png",
 			"Name": "Wilds Tamed: An In-Depth Comparative",
 			"URL": "https://pzwiki.net/wiki/Animal_Care_V:_%22Wilds_Tamed:_An_In-Depth_Comparative%22"
 		}
 	],
 	"Blacksmithing": [
 		{
-			"Icon": "/PZ/icons/BookBlacksmith.png",
+			"Icon": "/icons/BookBlacksmith.png",
 			"Name": "Elementary Forge Practice",
 			"URL": "https://pzwiki.net/wiki/Blacksmithing_I:_%22Elementary_Forge_Practice%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookBlacksmith.png",
+			"Icon": "/icons/BookBlacksmith.png",
 			"Name": "General Purpose Blacksmithing",
 			"URL": "https://pzwiki.net/wiki/Blacksmithing_II:_%22General_Purpose_Blacksmithing%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookBlacksmith.png",
+			"Icon": "/icons/BookBlacksmith.png",
 			"Name": "Old West Smiths and Their Secrets",
 			"URL": "https://pzwiki.net/wiki/Blacksmithing_III:_%22Old_West_Smiths_and_Their_Secrets%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookBlacksmith.png",
+			"Icon": "/icons/BookBlacksmith.png",
 			"Name": "Really Hard Steel Co. Workers Handbook",
 			"URL": "https://pzwiki.net/wiki/Blacksmithing_IV:_%22Really_Hard_Steel_Co._Workers_Handbook%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookBlacksmith.png",
+			"Icon": "/icons/BookBlacksmith.png",
 			"Name": "The Complete Encyclopedia of Metallurgy",
 			"URL": "https://pzwiki.net/wiki/Blacksmithing_V:_%22The_Complete_Encyclopedia_of_Metallurgy%22"
 		}
 	],
 	"Butchering": [
 		{
-			"Icon": "/PZ/icons/BookButchering.png",
+			"Icon": "/icons/BookButchering.png",
 			"Name": "Butchering Basics",
 			"URL": "https://pzwiki.net/wiki/Butchering_I:_%22Butchering_Basics%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookButchering.png",
+			"Icon": "/icons/BookButchering.png",
 			"Name": "From Chuck to Shank",
 			"URL": "https://pzwiki.net/wiki/Butchering_II:_%22From_Chuck_to_Shank%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookButchering.png",
+			"Icon": "/icons/BookButchering.png",
 			"Name": "Hunter's Guide to Butchering",
 			"URL": "https://pzwiki.net/wiki/Butchering_III:_%22Hunter%27s_Guide_to_Butchering%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookButchering.png",
+			"Icon": "/icons/BookButchering.png",
 			"Name": "Master Butcher's Complete Guide",
 			"URL": "https://pzwiki.net/wiki/Butchering_IV:_%22Master_Butcher%27s_Complete_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookButchering.png",
+			"Icon": "/icons/BookButchering.png",
 			"Name": "The Ergonomics of Tools in Meat Cutting Operations",
 			"URL": "https://pzwiki.net/wiki/Butchering_V:_%22The_Ergonomics_of_Tools_in_Meat_Cutting_Operations%22"
 		}
 	],
 	"Carpentry": [
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "A Guide to Nailing",
 			"URL": "https://pzwiki.net/wiki/Carpentry_I:_%22A_Guide_to_Nailing%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Carpentry, Woodcraft Style",
 			"URL": "https://pzwiki.net/wiki/Carpentry_II:_%22Carpentry,_Woodcraft_Style%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Hand Crafted Shelving and Storage",
 			"URL": "https://pzwiki.net/wiki/Carpentry_III:_%22Hand_Crafted_Shelving_and_Storage%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Making Your Own Cabin From Scratch",
 			"URL": "https://pzwiki.net/wiki/Carpentry_IV:_%22Making_Your_Own_Cabin_From_Scratch%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Site Joinery and Architectural Carpentry",
 			"URL": "https://pzwiki.net/wiki/Carpentry_V:_%22Site_Joinery_and_Architectural_Carpentry%22"
 		}
 	],
 	"Carving": [
 		{
-			"Icon": "/PZ/icons/BookCarving.png",
+			"Icon": "/icons/BookCarving.png",
 			"Name": "Beginners Carving",
 			"URL": "https://pzwiki.net/wiki/Carving_I:_%22Beginners_Carving%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookCarving.png",
+			"Icon": "/icons/BookCarving.png",
 			"Name": "Cool Woodshaping Projects!",
 			"URL": "https://pzwiki.net/wiki/Carving_II:_%22Cool_Woodshaping_Projects!%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookCarving.png",
+			"Icon": "/icons/BookCarving.png",
 			"Name": "Grinling Gibbons: His Life and Works",
 			"URL": "https://pzwiki.net/wiki/Carving_III:_%22Grinling_Gibbons:_His_Life_and_Works%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookCarving.png",
+			"Icon": "/icons/BookCarving.png",
 			"Name": "Medieval Wood and Bone Carving Techniques",
 			"URL": "https://pzwiki.net/wiki/Carving_IV:_%22Medieval_Wood_and_Bone_Carving_Techniques%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookCarving.png",
+			"Icon": "/icons/BookCarving.png",
 			"Name": "The Art and Process of Natural Material Carving",
 			"URL": "https://pzwiki.net/wiki/Carving_V:_%22The_Art_and_Process_of_Natural_Material_Carving%22"
 		}
 	],
 	"Cooking": [
 		{
-			"Icon": "/PZ/icons/Book9.png",
+			"Icon": "/icons/Book9.png",
 			"Name": "Better Burger Flipping",
 			"URL": "https://pzwiki.net/wiki/Cooking_I:_%22Better_Burger_Flipping%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book9.png",
+			"Icon": "/icons/Book9.png",
 			"Name": "Essential Home Cooking Guide",
 			"URL": "https://pzwiki.net/wiki/Cooking_II:_%22Essential_Home_Cooking_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book9.png",
+			"Icon": "/icons/Book9.png",
 			"Name": "Flavorful Cuisine - 1993 Edition",
 			"URL": "https://pzwiki.net/wiki/Cooking_III:_%22Flavorful_Cuisine_-_1993_Edition%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book9.png",
+			"Icon": "/icons/Book9.png",
 			"Name": "Professional Tips from a Master Chef",
 			"URL": "https://pzwiki.net/wiki/Cooking_IV:_%22Professional_Tips_from_a_Master_Chef%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book9.png",
+			"Icon": "/icons/Book9.png",
 			"Name": "Ruban Vert Gourmet - Complete Cooking Techniques",
 			"URL": "https://pzwiki.net/wiki/Cooking_V:_%22Ruban_Vert_Gourmet_-_Complete_Cooking_Techniques%22"
 		}
 	],
 	"Electrical": [
 		{
-			"Icon": "/PZ/icons/Book6.png",
+			"Icon": "/icons/Book6.png",
 			"Name": "Basic Electronics",
 			"URL": "https://pzwiki.net/wiki/Electrical_I:_%22Basic_Electronics%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book6.png",
+			"Icon": "/icons/Book6.png",
 			"Name": "Kentucky AV Guide '93",
 			"URL": "https://pzwiki.net/wiki/Electrical_II:_%22Kentucky_AV_Guide_%2793%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book6.png",
+			"Icon": "/icons/Book6.png",
 			"Name": "Practical Wiring Guide",
 			"URL": "https://pzwiki.net/wiki/Electrical_III:_%22Practical_Wiring_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book6.png",
+			"Icon": "/icons/Book6.png",
 			"Name": "Telecommunications in the 20th Century",
 			"URL": "https://pzwiki.net/wiki/Electrical_IV:_%22Telecommunications_in_the_20th_Century%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book6.png",
+			"Icon": "/icons/Book6.png",
 			"Name": "Understanding Integrated Controls for Electronic Systems",
 			"URL": "https://pzwiki.net/wiki/Electrical_V:_%22Understanding_Integrated_Controls_for_Electronic_Systems%22"
 		}
 	],
 	"First Aid": [
 		{
-			"Icon": "/PZ/icons/Book2.png",
+			"Icon": "/icons/Book2.png",
 			"Name": "A Scouts Injury Guide",
 			"URL": "https://pzwiki.net/wiki/First_Aid_I:_%22A_Scouts_Injury_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book2.png",
+			"Icon": "/icons/Book2.png",
 			"Name": "Bandaging and Suturing",
 			"URL": "https://pzwiki.net/wiki/First_Aid_II:_%22Bandaging_and_Suturing%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book2.png",
+			"Icon": "/icons/Book2.png",
 			"Name": "Emergency Paramedics Manual",
 			"URL": "https://pzwiki.net/wiki/First_Aid_III:_%22Emergency_Paramedics_Manual%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book2.png",
+			"Icon": "/icons/Book2.png",
 			"Name": "Gray's Anatomy of the Human Body",
 			"URL": "https://pzwiki.net/wiki/First_Aid_IV:_%22Gray%27s_Anatomy_of_the_Human_Body%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book2.png",
+			"Icon": "/icons/Book2.png",
 			"Name": "Surgical Techniques of the Operating Room",
 			"URL": "https://pzwiki.net/wiki/First_Aid_V:_%22Surgical_Techniques_of_the_Operating_Room%22"
 		}
 	],
 	"Fishing": [
 		{
-			"Icon": "/PZ/icons/Book5.png",
+			"Icon": "/icons/Book5.png",
 			"Name": "Dean's Good Fishing Guide",
 			"URL": "https://pzwiki.net/wiki/Fishing_I:_%22Dean%27s_Good_Fishing_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book5.png",
+			"Icon": "/icons/Book5.png",
 			"Name": "Fly Fishing, with JR Hartley",
 			"URL": "https://pzwiki.net/wiki/Fishing_II:_%22Fly_Fishing,_with_JR_Hartley%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book5.png",
+			"Icon": "/icons/Book5.png",
 			"Name": "Fresh and Saltwater Fishing",
 			"URL": "https://pzwiki.net/wiki/Fishing_III:_%22Fresh_and_Saltwater_Fishing%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book5.png",
+			"Icon": "/icons/Book5.png",
 			"Name": "Latest Rod and Net Techniques",
 			"URL": "https://pzwiki.net/wiki/Fishing_IV:_%22Latest_Rod_and_Net_Techniques%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book5.png",
+			"Icon": "/icons/Book5.png",
 			"Name": "The Authoritative Kentucky Fishing Guide",
 			"URL": "https://pzwiki.net/wiki/Fishing_V:_%22The_Authoritative_Kentucky_Fishing_Guide%22"
 		}
 	],
 	"Foraging": [
 		{
-			"Icon": "/PZ/icons/Book10.png",
+			"Icon": "/icons/Book10.png",
 			"Name": "A Feast in the Forest",
 			"URL": "https://pzwiki.net/wiki/Foraging_I:_%22A_Feast_in_the_Forest%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book10.png",
+			"Icon": "/icons/Book10.png",
 			"Name": "Dean's Guide to Sticks & Stones",
 			"URL": "https://pzwiki.net/wiki/Foraging_II:_%22Dean%27s_Guide_to_Sticks_%26_Stones%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book10.png",
+			"Icon": "/icons/Book10.png",
 			"Name": "Finding The Treasure in the Trash",
 			"URL": "https://pzwiki.net/wiki/Foraging_III:_%22Finding_The_Treasure_in_the_Trash%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book10.png",
+			"Icon": "/icons/Book10.png",
 			"Name": "Survival Foraging: How Nature Can Save Your Life",
 			"URL": "https://pzwiki.net/wiki/Foraging_IV:_%22Survival_Foraging:_How_Nature_Can_Save_Your_Life%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book10.png",
+			"Icon": "/icons/Book10.png",
 			"Name": "US Park Service Complete Nature Census - Kentucky",
 			"URL": "https://pzwiki.net/wiki/Foraging_V:_%22US_Park_Service_Complete_Nature_Census_-_Kentucky%22"
 		}
 	],
 	"Glassmaking": [
 		{
-			"Icon": "/PZ/icons/BookGlassmaking.png",
+			"Icon": "/icons/BookGlassmaking.png",
 			"Name": "Glass: A History",
 			"URL": "https://pzwiki.net/wiki/Glassmaking_I:_%22Glass:_A_History%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookGlassmaking.png",
+			"Icon": "/icons/BookGlassmaking.png",
 			"Name": "From Sand to Glass: A Journey",
 			"URL": "https://pzwiki.net/wiki/Glassmaking_II:_%22From_Sand_to_Glass:_A_Journey%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookGlassmaking.png",
+			"Icon": "/icons/BookGlassmaking.png",
 			"Name": "Laboratory Manual of Glassblowing",
 			"URL": "https://pzwiki.net/wiki/Glassmaking_III:_%22Laboratory_Manual_of_Glassblowing%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookGlassmaking.png",
+			"Icon": "/icons/BookGlassmaking.png",
 			"Name": "Secrets of the Carlow Crystal Makers",
 			"URL": "https://pzwiki.net/wiki/Glassmaking_IV:_%22Secrets_of_the_Carlow_Crystal_Makers%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookGlassmaking.png",
+			"Icon": "/icons/BookGlassmaking.png",
 			"Name": "Venetian Glass: An Electron Microprobe Analysis",
 			"URL": "https://pzwiki.net/wiki/Glassmaking_V:_%22Venetian_Glass:_An_Electron_Microprobe_Analysis%22"
 		}
 	],
 	"Knapping": [
 		{
-			"Icon": "/PZ/icons/BookFlintKnapping.png",
+			"Icon": "/icons/BookFlintKnapping.png",
 			"Name": "Flint Knapping 101",
 			"URL": "https://pzwiki.net/wiki/Knapping_I:_%22Flint_Knapping_101%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookFlintKnapping.png",
+			"Icon": "/icons/BookFlintKnapping.png",
 			"Name": "Guide to Kentucky Geology",
 			"URL": "https://pzwiki.net/wiki/Knapping_II:_%22Guide_to_Kentucky_Geology%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookFlintKnapping.png",
+			"Icon": "/icons/BookFlintKnapping.png",
 			"Name": "Lithic Technology Manual 1993",
 			"URL": "https://pzwiki.net/wiki/Knapping_III:_%22Lithic_Technology_Manual_1993%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookFlintKnapping.png",
+			"Icon": "/icons/BookFlintKnapping.png",
 			"Name": "Schmidt Rock Hardness Testing Techniques",
 			"URL": "https://pzwiki.net/wiki/Knapping_IV:_%22Schmidt_Rock_Hardness_Testing_Techniques%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookFlintKnapping.png",
+			"Icon": "/icons/BookFlintKnapping.png",
 			"Name": "Technological Morphometrics of Clovis Artifacts",
 			"URL": "https://pzwiki.net/wiki/Knapping_V:_%22Technological_Morphometrics_of_Clovis_Artifacts%22"
 		}
 	],
 	"Long Blade": [
 		{
-			"Icon": "/PZ/icons/BookLongBlade.png",
+			"Icon": "/icons/BookLongBlade.png",
 			"Name": "Cool Swords!",
 			"URL": "https://pzwiki.net/wiki/Long_Blade_I:_%22Cool_Swords!%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookLongBlade.png",
+			"Icon": "/icons/BookLongBlade.png",
 			"Name": "Fencing: A History",
 			"URL": "https://pzwiki.net/wiki/Long_Blade_II:_%22Fencing:_A_History%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookLongBlade.png",
+			"Icon": "/icons/BookLongBlade.png",
 			"Name": "Old Sword-Play by Alfred Hutton",
 			"URL": "https://pzwiki.net/wiki/Long_Blade_III:_%22Old_Sword-Play%22_by_Alfred_Hutton"
 		},
 		{
-			"Icon": "/PZ/icons/BookLongBlade.png",
+			"Icon": "/icons/BookLongBlade.png",
 			"Name": "The Zettels of Johannes Liechtenauer",
 			"URL": "https://pzwiki.net/wiki/Long_Blade_IV:_%22The_Zettels_of_Johannes_Liechtenauer%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookLongBlade.png",
+			"Icon": "/icons/BookLongBlade.png",
 			"Name": "Wear Analysis of Selected Medieval Swords",
 			"URL": "https://pzwiki.net/wiki/Long_Blade_V:_%22Wear_Analysis_of_Selected_Medieval_Swords%22"
 		}
 	],
 	"Maintenance": [
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Basic Repairs",
 			"URL": "https://pzwiki.net/wiki/Maintenance_I:_%22Basic_Repairs%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Better Tools, Made Easy",
 			"URL": "https://pzwiki.net/wiki/Maintenance_II:_%22Better_Tools,_Made_Easy%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Home Guide to Tool Repairs",
 			"URL": "https://pzwiki.net/wiki/Maintenance_III:_%22Home_Guide_to_Tool_Repairs%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Maintaining High Grade Tools",
 			"URL": "https://pzwiki.net/wiki/Maintenance_IV:_%22Maintaining_High_Grade_Tools%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book8.png",
+			"Icon": "/icons/Book8.png",
 			"Name": "Understanding Biomechanics of Tool Use",
 			"URL": "https://pzwiki.net/wiki/Maintenance_V:_%22Understanding_Biomechanics_of_Tool_Use%22"
 		}
 	],
 	"Masonry": [
 		{
-			"Icon": "/PZ/icons/BookMasonry.png",
+			"Icon": "/icons/BookMasonry.png",
 			"Name": "A Bricklayer's Life",
 			"URL": "https://pzwiki.net/wiki/Masonry_I:_%22A_Bricklayer%27s_Life%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookMasonry.png",
+			"Icon": "/icons/BookMasonry.png",
 			"Name": "Flooring: Do It Yourself",
 			"URL": "https://pzwiki.net/wiki/Masonry_II:_%22Flooring:_Do_It_Yourself%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookMasonry.png",
+			"Icon": "/icons/BookMasonry.png",
 			"Name": "Dibnah's Guide to Bricks",
 			"URL": "https://pzwiki.net/wiki/Masonry_III:_%22Dibnah%27s_Guide_to_Bricks%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookMasonry.png",
+			"Icon": "/icons/BookMasonry.png",
 			"Name": "Secrets of a Professional Mason",
 			"URL": "https://pzwiki.net/wiki/Masonry_IV:_%22Secrets_of_a_Professional_Mason%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookMasonry.png",
+			"Icon": "/icons/BookMasonry.png",
 			"Name": "Statistical Analysis of Historic Masonry Constructions",
 			"URL": "https://pzwiki.net/wiki/Masonry_V:_%22Statistical_Analysis_of_Historic_Masonry_Constructions%22"
 		}
 	],
 	"Mechanics": [
 		{
-			"Icon": "/PZ/icons/Book11.png",
+			"Icon": "/icons/Book11.png",
 			"Name": "Carzone's Repair Guide",
 			"URL": "https://pzwiki.net/wiki/Mechanics_I:_%22Carzone%27s_Repair_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book11.png",
+			"Icon": "/icons/Book11.png",
 			"Name": "How Vehicle Engines Work",
 			"URL": "https://pzwiki.net/wiki/Mechanics_II:_%22How_Vehicle_Engines_Work%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book11.png",
+			"Icon": "/icons/Book11.png",
 			"Name": "Laine's Repair Manual '93",
 			"URL": "https://pzwiki.net/wiki/Mechanics_III:_%22Laine%27s_Repair_Manual_%2793%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book11.png",
+			"Icon": "/icons/Book11.png",
 			"Name": "Long Term Vehicle Maintenance",
 			"URL": "https://pzwiki.net/wiki/Mechanics_IV:_%22Long_Term_Vehicle_Maintenance%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book11.png",
+			"Icon": "/icons/Book11.png",
 			"Name": "Mastering Automotive Fault Diagnosis Techniques",
 			"URL": "https://pzwiki.net/wiki/Mechanics_V:_%22Mastering_Automotive_Fault_Diagnosis_Techniques%22"
 		}
 	],
 	"Pottery": [
 		{
-			"Icon": "/PZ/icons/BookPottery.png",
+			"Icon": "/icons/BookPottery.png",
 			"Name": "Ancient Pottery",
 			"URL": "https://pzwiki.net/wiki/Pottery_I:_%22Ancient_Pottery%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookPottery.png",
+			"Icon": "/icons/BookPottery.png",
 			"Name": "Build Your Own Kiln",
 			"URL": "https://pzwiki.net/wiki/Pottery_II:_%22Build_Your_Own_Kiln%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookPottery.png",
+			"Icon": "/icons/BookPottery.png",
 			"Name": "Glazing Ceramics at Home",
 			"URL": "https://pzwiki.net/wiki/Pottery_III:_%22Glazing_Ceramics_at_Home%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookPottery.png",
+			"Icon": "/icons/BookPottery.png",
 			"Name": "Ming Chinese Masterworks: A Guide",
 			"URL": "https://pzwiki.net/wiki/Pottery_IV:_%22Ming_Chinese_Masterworks:_A_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookPottery.png",
+			"Icon": "/icons/BookPottery.png",
 			"Name": "Pyrometamorphic Process of Ceramic Materials",
 			"URL": "https://pzwiki.net/wiki/Pottery_V:_%22Pyrometamorphic_Process_of_Ceramic_Materials%22"
 		}
 	],
 	"Reloading": [
 		{
-			"Icon": "/PZ/icons/Book13.png",
+			"Icon": "/icons/Book13.png",
 			"Name": "Basic Reloading",
 			"URL": "https://pzwiki.net/wiki/Reloading_I:_%22Basic_Reloading%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book13.png",
+			"Icon": "/icons/Book13.png",
 			"Name": "Dead Man's Click",
 			"URL": "https://pzwiki.net/wiki/Reloading_II:_%22Dead_Man%27s_Click%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book13.png",
+			"Icon": "/icons/Book13.png",
 			"Name": "Jungle Style Reloading",
 			"URL": "https://pzwiki.net/wiki/Reloading_III:_%22Jungle_Style_Reloading%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book13.png",
+			"Icon": "/icons/Book13.png",
 			"Name": "Strippers, Speedloaders, and Bolt Action",
 			"URL": "https://pzwiki.net/wiki/Reloading_IV:_%22Strippers,_Speedloaders,_and_Bolt_Action%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book13.png",
+			"Icon": "/icons/Book13.png",
 			"Name": "The Ultimate Encyclopedia of Reloading Techniques",
 			"URL": "https://pzwiki.net/wiki/Reloading_V:_%22The_Ultimate_Encyclopedia_of_Reloading_Techniques%22"
 		}
 	],
 	"Tailoring": [
 		{
-			"Icon": "/PZ/icons/BookTailoring.png",
+			"Icon": "/icons/BookTailoring.png",
 			"Name": "Basic Clothing Repair",
 			"URL": "https://pzwiki.net/wiki/Tailoring_I:_%22Basic_Clothing_Repair%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTailoring.png",
+			"Icon": "/icons/BookTailoring.png",
 			"Name": "From Rags to Royalty: A Sewing Guide",
 			"URL": "https://pzwiki.net/wiki/Tailoring_II:_%22From_Rags_to_Royalty:_A_Sewing_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTailoring.png",
+			"Icon": "/icons/BookTailoring.png",
 			"Name": "Haute Couture Tailoring Methods",
 			"URL": "https://pzwiki.net/wiki/Tailoring_III:_%22Haute_Couture_Tailoring_Methods%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTailoring.png",
+			"Icon": "/icons/BookTailoring.png",
 			"Name": "Modern Patterns from the Catwalks of Paris",
 			"URL": "https://pzwiki.net/wiki/Tailoring_IV:_%22Modern_Patterns_from_the_Catwalks_of_Paris%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTailoring.png",
+			"Icon": "/icons/BookTailoring.png",
 			"Name": "Textile Production and Manufacturing Techniques",
 			"URL": "https://pzwiki.net/wiki/Tailoring_V:_%22Textile_Production_and_Manufacturing_Techniques%22"
 		}
 	],
 	"Tracking": [
 		{
-			"Icon": "/PZ/icons/BookTracking.png",
+			"Icon": "/icons/BookTracking.png",
 			"Name": "Animal Pawprints",
 			"URL": "https://pzwiki.net/wiki/Tracking_I:_%22Animal_Pawprints%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTracking.png",
+			"Icon": "/icons/BookTracking.png",
 			"Name": "Hunting with Hemingway",
 			"URL": "https://pzwiki.net/wiki/Tracking_II:_%22Hunting_with_Hemingway%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTracking.png",
+			"Icon": "/icons/BookTracking.png",
 			"Name": "Long Range Animal Tracking",
 			"URL": "https://pzwiki.net/wiki/Tracking_III:_%22Long_Range_Animal_Tracking%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTracking.png",
+			"Icon": "/icons/BookTracking.png",
 			"Name": "The Smell of Ivory: An African Adventure",
 			"URL": "https://pzwiki.net/wiki/Tracking_IV:_%22The_Smell_of_Ivory:_An_African_Adventure%22"
 		},
 		{
-			"Icon": "/PZ/icons/BookTracking.png",
+			"Icon": "/icons/BookTracking.png",
 			"Name": "Understanding Animal Behavior Through Spoor Placement",
 			"URL": "https://pzwiki.net/wiki/Tracking_V:_%22Understanding_Animal_Behavior_Through_Spoor_Placement%22"
 		}
 	],
 	"Trapping": [
 		{
-			"Icon": "/PZ/icons/Book4.png",
+			"Icon": "/icons/Book4.png",
 			"Name": "Basic Pest Control",
 			"URL": "https://pzwiki.net/wiki/Trapping_I:_%22Basic_Pest_Control%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book4.png",
+			"Icon": "/icons/Book4.png",
 			"Name": "Better Trapping, with Dean",
 			"URL": "https://pzwiki.net/wiki/Trapping_II:_%22Better_Trapping,_with_Dean%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book4.png",
+			"Icon": "/icons/Book4.png",
 			"Name": "Park Rangers Wildlife Handbook '93",
 			"URL": "https://pzwiki.net/wiki/Trapping_III:_%22Park_Rangers_Wildlife_Handbook_%2793%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book4.png",
+			"Icon": "/icons/Book4.png",
 			"Name": "Research on Rodents and Mammals of Kentucky",
 			"URL": "https://pzwiki.net/wiki/Trapping_IV:_%22Research_on_Rodents_and_Mammals_of_Kentucky%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book4.png",
+			"Icon": "/icons/Book4.png",
 			"Name": "The Encyclopedia of Applied Animal Psychology",
 			"URL": "https://pzwiki.net/wiki/Trapping_V:_%22The_Encyclopedia_of_Applied_Animal_Psychology%22"
 		}
 	],
 	"Welding": [
 		{
-			"Icon": "/PZ/icons/Book7.png",
+			"Icon": "/icons/Book7.png",
 			"Name": "Basics of Welding",
 			"URL": "https://pzwiki.net/wiki/Welding_I:_%22Basics_of_Welding%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book7.png",
+			"Icon": "/icons/Book7.png",
 			"Name": "Building with Metal",
 			"URL": "https://pzwiki.net/wiki/Welding_II:_%22Building_with_Metal%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book7.png",
+			"Icon": "/icons/Book7.png",
 			"Name": "Machining Metal: The Mass Genfac Guide",
 			"URL": "https://pzwiki.net/wiki/Welding_III:_%22Machining_Metal:_The_Mass_Genfac_Guide%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book7.png",
+			"Icon": "/icons/Book7.png",
 			"Name": "Ore to Sheets: A Complete Metalworking Manual",
 			"URL": "https://pzwiki.net/wiki/Welding_IV:_%22Ore_to_Sheets:_A_Complete_Metalworking_Manual%22"
 		},
 		{
-			"Icon": "/PZ/icons/Book7.png",
+			"Icon": "/icons/Book7.png",
 			"Name": "Technological Fundamentals of Metal Fabrication",
 			"URL": "https://pzwiki.net/wiki/Welding_V:_%22Technological_Fundamentals_of_Metal_Fabrication%22"
 		}

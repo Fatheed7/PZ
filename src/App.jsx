@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import SidebarComponent from "./Components/Sidebar/Sidebar";
 import { Button } from "primereact/button";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import BookList from "./Pages/Books/Books";
 import MagazineList from "./Pages/Magazine/Magazine";
 import SkillRoute from "./Pages/SkillRoute/SkillRoute";
@@ -28,9 +28,9 @@ function App() {
 					<i className="bi bi-list"></i>
 				</Button>
 				<Routes>
-					<Route path="/PZ" element={<BookList />} />
-					<Route path="/PZ/magazine" element={<MagazineList />} />
-					<Route path="/PZ/:skill" element={<SkillRoute />} />
+					<Route path="/" element={<BookList />} />
+					<Route path="/magazine" element={<MagazineList />} />
+					<Route path="/:skill" element={<SkillRoute />} />
 				</Routes>
 			</Router>
 		</>
