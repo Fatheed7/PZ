@@ -1,21 +1,32 @@
 {
-	"Getting Started (Required Items)": [
-		{ "Icon": "./icons/Crafted_01_16.png", "Name": "Furnace" },
-		{ "Icon": "./icons/Ceramic_Crucible_Fired.png", "Name": "Crucible" },
+	"The Essentials": [
+		{
+			"Icon": "./icons/Crafted_01_16.png",
+			"Name": "Furnace"
+		},
+		{
+			"Icon": "./icons/Ceramic_Crucible_Fired.png",
+			"Name": "Crucible"
+		},
 		{
 			"Icon": "./icons/BlacksmithTongs.png",
-			"Name": "Tongs / Crude Tongs"
+			"Name": "Tongs"
 		},
 		{
 			"Icon": "./icons/Charcoal.png",
-			"Name": "Charcoal"
+			"Name": "Charcoal",
+			"Tooltip": ["Wood Charcoal", "Coke"]
 		}
 	],
-	"Some recipes require extra tools": [
+	"Other Useful Tools (Used in Recipes)": [
 		{
 			"Icon": "./icons/Ceramic_Glasspipe_Unfired.png",
 			"Name": "Glass Blowing Pipe"
 		},
-		{ "Icon": "./icons/Pliers.png", "Name": "Pliers" }
+		{
+			"Icon": "./icons/Pliers.png",
+			"Name": "Pliers",
+			"Tooltip": ["Metalworking Pliers", "Multitool"]
+		}
 	]
 }
