@@ -51,7 +51,7 @@ function SidebarComponent({ visible, onHide }) {
 												<ul className="list-none p-0 m-0 overflow-hidden">
 													<li>
 														<Link
-															to="/"
+															to="/PZ"
 															className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 														>
 															<span>📖</span>
@@ -61,7 +61,7 @@ function SidebarComponent({ visible, onHide }) {
 													</li>
 													<li>
 														<Link
-															to="/magazine"
+															to="PZ/magazine"
 															className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 														>
 															<span>📰</span>
@@ -79,7 +79,7 @@ function SidebarComponent({ visible, onHide }) {
 											<ul className="list-none p-0 m-0 overflow-hidden">
 												<li>
 													<Link
-														to="/blacksmithing"
+														to="PZ/blacksmithing"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🔨</span>
@@ -89,7 +89,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/carpentry"
+														to="PZ/carpentry"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🛠️</span>
@@ -99,7 +99,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/carving"
+														to="PZ/carving"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🔪</span>
@@ -109,7 +109,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/cooking"
+														to="PZ/cooking"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🍳</span>
@@ -119,7 +119,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/electrical"
+														to="PZ/electrical"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>⚡</span>
@@ -129,7 +129,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/glassmaking"
+														to="PZ/glassmaking"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🥛</span>
@@ -139,7 +139,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/knapping"
+														to="PZ/knapping"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🗿</span>
@@ -149,7 +149,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/masonry"
+														to="PZ/masonry"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🧱</span>
@@ -159,7 +159,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/mechanics"
+														to="PZ/mechanics"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>⚙️</span>
@@ -169,7 +169,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/pottery"
+														to="PZ/pottery"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🏺</span>
@@ -179,7 +179,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/tailoring"
+														to="PZ/tailoring"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>✂️</span>
@@ -189,7 +189,7 @@ function SidebarComponent({ visible, onHide }) {
 												</li>
 												<li>
 													<Link
-														to="/welding"
+														to="PZ/welding"
 														className="p-ripple flex align-items-center cursor-pointer p-3 border-round text-700 hover:surface-100 transition-duration-150 transition-colors w-full pz-nav-link"
 													>
 														<span>🔥</span>

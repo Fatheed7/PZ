@@ -28,9 +28,9 @@ function App() {
 					<i className="bi bi-list"></i>
 				</Button>
 				<Routes>
-					<Route path="/" element={<BookList />} />
-					<Route path="/magazine" element={<MagazineList />} />
-					<Route path="/:skill" element={<SkillRoute />} />
+					<Route path="/PZ" element={<BookList />} />
+					<Route path="/PZ/magazine" element={<MagazineList />} />
+					<Route path="/PZ/:skill" element={<SkillRoute />} />
 				</Routes>
 			</Router>
 		</>
