@@ -1,18 +1,20 @@
 {
-	"Getting Started": [
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Better Gardening" },
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Growing Food at Home" },
+	"The Essentials": [
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "Liam Keating's Subsistence Farming"
+			"Icon": "./icons/Screwdriver_Blue.png",
+			"Name": "Screwdriver",
+			"Tooltip": ["Handiknife", "Multitool", "Improvised Screwdriver"]
+		}
+	],
+	"Other Useful Tools (Used in Recipes)": [
+		{
+			"Icon": "./icons/Handsaw.png",
+			"Name": "Saw",
+			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "The Science of Crop Genetics and Yields"
-		},
-		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "USDA Guide to Agricultural Output Maximization"
+			"Icon": "./icons/Pliers.png",
+			"Name": "Pliers"
 		}
 	]
 }

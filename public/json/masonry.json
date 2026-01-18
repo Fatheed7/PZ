@@ -1,18 +1,58 @@
 {
-	"Getting Started": [
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Better Gardening" },
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Growing Food at Home" },
+	"The Essentials": [
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "Liam Keating's Subsistence Farming"
+			"Icon": "./icons/MasonTrowel.png",
+			"Name": "Mason's Trowel",
+			"Tooltip": ["Wooden Trowel"]
+		},
+		{ "Icon": "./icons/Chisel_Forged.png", "Name": "Mason's Chisel" },
+		{
+			"Icon": "./icons/Hammer.png",
+			"Name": "Hammer",
+			"Tooltip": [
+				"Ball Peen Hammer",
+				"Claw Hammer",
+				"Stone Hammer",
+				"Smithing Hammer",
+				"Block Mace",
+				"Club Hammer"
+			]
+		}
+	],
+	"Other Useful Tools (Used in Recipes)": [
+		{
+			"Icon": "./icons/Pickaxe_Forged.png",
+			"Name": "Pickaxe"
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "The Science of Crop Genetics and Yields"
+			"Icon": "./icons/Sledgehammer2.png",
+			"Name": "Sledgehammer"
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "USDA Guide to Agricultural Output Maximization"
+			"Icon": "./icons/StoneChisel.png",
+			"Name": "Stone Chisel"
+		},
+		{
+			"Icon": "./icons/MetalBucket_Concrete.png",
+			"Name": "Concrete",
+			"Tooltip": [
+				"Bucket of Clay Cement",
+				"Bucket of Concrete",
+				"Carved Bucket of Clay Cement",
+				"Carved Bucket of Concrete"
+			]
+		},
+		{
+			"Icon": "./icons/ClayBrick_Fired.png",
+			"Name": "Brick"
+		},
+		{
+			"Icon": "./icons/Rock.png",
+			"Name": "Stone"
+		},
+		{
+			"Icon": "./icons/RoughBlock.png",
+			"Name": "Stone Block"
 		}
 	]
 }

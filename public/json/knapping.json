@@ -1,18 +1,15 @@
 {
-	"Getting Started": [
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Better Gardening" },
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Growing Food at Home" },
+	"The Essentials": [
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "Liam Keating's Subsistence Farming"
+			"Icon": "./icons/HammerStone.png",
+			"Name": "Stone Hammer",
+			"Tooltip": ["Stone"]
 		},
+		{ "Icon": "./icons/AntlerFlint.png", "Name": "Knapping Tool" },
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "The Science of Crop Genetics and Yields"
-		},
-		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "USDA Guide to Agricultural Output Maximization"
+			"Icon": "./icons/WoodMallet.png",
+			"Name": "Wooden Mallet",
+			"Tooltip": ["Short Bat"]
 		}
 	]
 }

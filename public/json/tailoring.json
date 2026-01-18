@@ -1,18 +1,127 @@
 {
-	"Getting Started": [
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Better Gardening" },
-		{ "Icon": "./images/BookAgriculture.png", "Name": "Growing Food at Home" },
+	"The Essentials": [
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "Liam Keating's Subsistence Farming"
+			"Icon": "./icons/Needle.png",
+			"Name": "Needle",
+			"Tooltip": ["Bone Needle", "Brass Needle", "Forged Needle"]
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "The Science of Crop Genetics and Yields"
+			"Icon": "./icons/Thread.png",
+			"Name": "Thread"
+		}
+	],
+	"Other Useful Tools (Used in Recipes)": [
+		{
+			"Icon": "./icons/Scissors.png",
+			"Name": "Scissors",
+			"Tooltip": [
+				"Medical Shears",
+				"Safety Scissors",
+				"Multitool",
+				"Crude Scissors"
+			]
 		},
 		{
-			"Icon": "./images/BookAgriculture.png",
-			"Name": "USDA Guide to Agricultural Output Maximization"
+			"Icon": "./icons/KnifeChopping.png",
+			"Name": "Sharp Knife",
+			"Tooltip": [
+				"Straight Razor",
+				"Sharp Flint Flake",
+				"Machete",
+				"Scrap Metal Chopper",
+				"Machete",
+				"Simple Metal Knife",
+				"Fighting Knife",
+				"Stone Knife",
+				"Handguard Dagger",
+				"Handiknife",
+				"Hunting Knife",
+				"Hunting Knife",
+				"Kitchen Knife",
+				"Kitchen Knife",
+				"Butterfly Knife",
+				"Fillet Knife",
+				"Paring Knife",
+				"Pocket Knife",
+				"Sushi Knife",
+				"Large Knife",
+				"Scrap Metal Large Knife",
+				"Long Simple Metal Knife",
+				"Machete Blade Knife",
+				"Multitool",
+				"Railroad Spike Knife",
+				"Small Knife",
+				"Steak Knife",
+				"Long Stone Knife",
+				"Switchblade",
+				"Meat Cleaver"
+			]
+		},
+		{
+			"Icon": "./icons/Hammer.png",
+			"Name": "Hammer",
+			"Tooltip": [
+				"Ball Peen Hammer",
+				"Claw Hammer",
+				"Stone Hammer",
+				"Smithing Hammer",
+				"Block Mace",
+				"Club Hammer"
+			]
+		},
+		{
+			"Icon": "./icons/BlacksmithTongs.png",
+			"Name": "Tongs"
+		},
+		{
+			"Icon": "./icons/ViseGrip.png",
+			"Name": "Vise Grips",
+			"Tooltip": ["Metalworking Pliers"]
+		},
+		{
+			"Icon": "./icons/Awl_Leather.png",
+			"Name": "Awl",
+			"Tooltip": [
+				"Awl - Bone",
+				"Awl - Stone",
+				"Small Punch and Chisel Set",
+				"Handiknife",
+				"Ice Pick",
+				"Multitool"
+			]
+		},
+		{
+			"Icon": "./icons/HeaderTool.png",
+			"Name": "Heading Tool"
+		},
+		{
+			"Icon": "./icons/KnittingNeedles.png",
+			"Name": "Knitting Needles",
+			"Tooltip": ["Knitting Needles - Bone", "Knitting Needles - Wood"]
+		},
+		{
+			"Icon": "./icons/Pliers.png",
+			"Name": "Pliers",
+			"Tooltip": ["Metalworking Pliers", "Multitool"]
+		},
+		{
+			"Icon": "./icons/Handsaw.png",
+			"Name": "Saw",
+			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
+		},
+		{
+			"Icon": "./icons/WeldingMask.png",
+			"Name": "Welder Mask",
+			"Tooltip": ["Old Welding Goggles"]
+		},
+		{
+			"Icon": "./icons/Wrench.png",
+			"Name": "Wrench",
+			"Tooltip": ["Ratchet Wrench"]
+		},
+		{
+			"Icon": "./icons/Boltcutters.png",
+			"Name": "Bolt Cutters"
 		}
 	]
 }

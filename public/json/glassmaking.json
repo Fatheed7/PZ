@@ -24,8 +24,9 @@
 			"Name": "Glass Blowing Pipe"
 		},
 		{
-			"Icon": "./icons/Screwdriver_Blue.png",
-			"Name": "Pliers"
+			"Icon": "./icons/Pliers.png",
+			"Name": "Pliers",
+			"Tooltip": ["Metalworking Pliers", "Multitool"]
 		}
 	]
 }
