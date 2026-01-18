@@ -3,7 +3,7 @@ import { ROMAN_1_TO_5 } from "../../assets/Utils/Constants";
 import { encodeBools, decodeBools } from "../../assets/Utils/EncodeDecodeBools";
 import { handleCheckboxChange } from "../../assets/Utils/HandleCheckboxChange";
 import { loadCheckedBooks } from "../../assets/Utils/LoadCheckedBooks";
-import { BooksContext } from "../../contexts/BooksContext";
+import { BooksContext } from "../../Contexts/BooksContext";
 
 const JSON_URL = "/json/books.json";
 const STORAGE_KEY = "books";
@@ -33,7 +33,7 @@ const BookList = () => {
 													category,
 													index,
 													setCheckedBooks,
-													STORAGE_KEY
+													STORAGE_KEY,
 												)
 											}
 										/>
