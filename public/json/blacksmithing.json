@@ -1,24 +1,24 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "/icons/Crafted_01_16.png",
+			"Icon": "/PZ/icons/Crafted_01_16.png",
 			"Name": "Furnace"
 		},
 		{
-			"Icon": "/icons/Ceramic_Crucible_Fired.png",
+			"Icon": "/PZ/icons/Ceramic_Crucible_Fired.png",
 			"Name": "Crucible"
 		},
 		{
-			"Icon": "/icons/BlacksmithTongs.png",
+			"Icon": "/PZ/icons/BlacksmithTongs.png",
 			"Name": "Tongs"
 		},
 		{
-			"Icon": "/icons/Charcoal.png",
+			"Icon": "/PZ/icons/Charcoal.png",
 			"Name": "Charcoal",
 			"Tooltip": ["Wood Charcoal", "Coke"]
 		},
 		{
-			"Icon": "/icons/Hammer.png",
+			"Icon": "/PZ/icons/Hammer.png",
 			"Name": "Hammer",
 			"Tooltip": [
 				"Ball-peen Hammer",
@@ -30,56 +30,56 @@
 			]
 		},
 		{
-			"Icon": "/icons/LargeFile_Forged.png",
+			"Icon": "/PZ/icons/LargeFile_Forged.png",
 			"Name": "File",
 			"Tooltip": ["Small File Set"]
 		},
 		{
-			"Icon": "/icons/Whetstone2.png",
+			"Icon": "/PZ/icons/Whetstone2.png",
 			"Name": "Whetstone",
 			"Tooltip": ["Improvised Whetstone"]
 		},
 		{
-			"Icon": "/icons/ViseGrip.png",
+			"Icon": "/PZ/icons/ViseGrip.png",
 			"Name": "Vise Grips",
 			"Tooltip": ["Metalworking Pliers"]
 		},
 		{
-			"Icon": "/icons/HotChisel_Forged.png",
+			"Icon": "/PZ/icons/HotChisel_Forged.png",
 			"Name": "Metalworking Chisel"
 		},
 		{
-			"Icon": "/icons/Punch_Forged.png",
+			"Icon": "/PZ/icons/Punch_Forged.png",
 			"Name": "Metalworking Punch"
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "/icons/CeramicCast_LongBar_Unfired.png",
+			"Icon": "/PZ/icons/CeramicCast_LongBar_Unfired.png",
 			"Name": "Ceramic Bar Mold"
 		},
 		{
-			"Icon": "/icons/IronMold_Bar.png",
+			"Icon": "/PZ/icons/IronMold_Bar.png",
 			"Name": "Iron Bar Mold"
 		},
 		{
-			"Icon": "/icons/SteelMold_Bar.png",
+			"Icon": "/PZ/icons/SteelMold_Bar.png",
 			"Name": "Steel Bar Mold"
 		},
 		{
-			"Icon": "/icons/CeramicCast_Bar_Fired.png",
+			"Icon": "/PZ/icons/CeramicCast_Bar_Fired.png",
 			"Name": "Ceramic Ingot Mold"
 		},
 		{
-			"Icon": "/icons/IronMold_Ingot.png",
+			"Icon": "/PZ/icons/IronMold_Ingot.png",
 			"Name": "Iron Ingot Mold"
 		},
 		{
-			"Icon": "/icons/SteelMold_Ingot.png",
+			"Icon": "/PZ/icons/SteelMold_Ingot.png",
 			"Name": "Steel Ingot Mold"
 		},
 		{
-			"Icon": "/icons/MasonTrowel.png",
+			"Icon": "/PZ/icons/MasonTrowel.png",
 			"Name": "Mason's Trowel",
 			"Tooltip": ["Wooden Trowel"]
 		}

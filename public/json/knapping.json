@@ -1,13 +1,13 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "/icons/HammerStone.png",
+			"Icon": "/PZ/icons/HammerStone.png",
 			"Name": "Stone Hammer",
 			"Tooltip": ["Stone"]
 		},
-		{ "Icon": "/icons/AntlerFlint.png", "Name": "Knapping Tool" },
+		{ "Icon": "/PZ/icons/AntlerFlint.png", "Name": "Knapping Tool" },
 		{
-			"Icon": "/icons/WoodMallet.png",
+			"Icon": "/PZ/icons/WoodMallet.png",
 			"Name": "Wooden Mallet",
 			"Tooltip": ["Short Bat"]
 		}

@@ -1,42 +1,42 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "/icons/ClayTool_02.png",
+			"Icon": "/PZ/icons/ClayTool_02.png",
 			"Name": "Clay Tool",
 			"Tooltip": ["Clay Sculpting Tool", "Wood Clay Sculpting Tool"]
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "/icons/WoodMold_LonbBarCast.png",
+			"Icon": "/PZ/icons/WoodMold_LonbBarCast.png",
 			"Name": "Wooden Bar Cast Mold"
 		},
 		{
-			"Icon": "/icons/WoodMold_AnvilCast.png",
+			"Icon": "/PZ/icons/WoodMold_AnvilCast.png",
 			"Name": "Wooden Blacksmith Anvil Mold"
 		},
 		{
-			"Icon": "/icons/ClayMold_Brick.png",
+			"Icon": "/PZ/icons/ClayMold_Brick.png",
 			"Name": "Wooden Brick Mold"
 		},
 		{
-			"Icon": "/icons/WoodMold_BarCast.png",
+			"Icon": "/PZ/icons/WoodMold_BarCast.png",
 			"Name": "Wooden Ingot Cast Mold"
 		},
 		{
-			"Icon": "/icons/ClayMold_Shingle.png",
+			"Icon": "/PZ/icons/ClayMold_Shingle.png",
 			"Name": "Wooden Shingle Mold"
 		},
 		{
-			"Icon": "/icons/ClayMold_Tile.png",
+			"Icon": "/PZ/icons/ClayMold_Tile.png",
 			"Name": "Wooden Tile Mold"
 		},
 		{
-			"Icon": "/icons/Brush_Glaze.png",
+			"Icon": "/PZ/icons/Brush_Glaze.png",
 			"Name": "Small Brush"
 		},
 		{
-			"Icon": "/icons/Hammer.png",
+			"Icon": "/PZ/icons/Hammer.png",
 			"Name": "Hammer",
 			"Tooltip": [
 				"Ball-peen Hammer",
@@ -48,7 +48,7 @@
 			]
 		},
 		{
-			"Icon": "/icons/Handsaw.png",
+			"Icon": "/PZ/icons/Handsaw.png",
 			"Name": "Saw",
 			"Tooltip": ["Simple Wood Saw", "Wood Saw", "Hacksaw"]
 		}

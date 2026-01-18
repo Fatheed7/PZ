@@ -1,7 +1,7 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "/icons/KnifeChopping.png",
+			"Icon": "/PZ/icons/KnifeChopping.png",
 			"Name": "Sharp Knife",
 			"Tooltip": [
 				"Straight Razor",
@@ -39,20 +39,20 @@
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "/icons/Ceramic_Glasspipe_Unfired.png",
+			"Icon": "/PZ/icons/Ceramic_Glasspipe_Unfired.png",
 			"Name": "Saw"
 		},
 		{
-			"Icon": "/icons/Drill_OldFashioned.png",
+			"Icon": "/PZ/icons/Drill_OldFashioned.png",
 			"Name": "Hand Drill"
 		},
 		{
-			"Icon": "/icons/Whetstone2.png",
+			"Icon": "/PZ/icons/Whetstone2.png",
 			"Name": "Whetstone",
 			"Tooltip": ["Improvised Whetstone"]
 		},
 		{
-			"Icon": "/icons/LargeFile_Forged.png",
+			"Icon": "/PZ/icons/LargeFile_Forged.png",
 			"Name": "File",
 			"Tooltip": ["Small File Set"]
 		}

@@ -1,7 +1,7 @@
 {
 	"Useful Items": [
 		{
-			"Icon": "/icons/KnifeChopping.png",
+			"Icon": "/PZ/icons/KnifeChopping.png",
 			"Name": "Sharp Knife",
 			"Tooltip": [
 				"Straight Razor",
@@ -36,9 +36,9 @@
 				"Meat Cleaver"
 			]
 		},
-		{ "Icon": "/icons/RollingPin.png", "Name": "Rolling Pin" },
+		{ "Icon": "/PZ/icons/RollingPin.png", "Name": "Rolling Pin" },
 		{
-			"Icon": "/icons/Spatula.png",
+			"Icon": "/PZ/icons/Spatula.png",
 			"Name": "Mixing Utensil",
 			"Tooltip": [
 				"Plastic Spork",
@@ -63,11 +63,11 @@
 			]
 		},
 		{
-			"Icon": "/icons/Bowl.png",
+			"Icon": "/PZ/icons/Bowl.png",
 			"Name": "Bowl"
 		},
 		{
-			"Icon": "/icons/CanOpener.png",
+			"Icon": "/PZ/icons/CanOpener.png",
 			"Name": "Can Opener",
 			"Tooltip": [
 				"P38 Can Opener",

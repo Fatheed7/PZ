@@ -1,30 +1,30 @@
 {
 	"The Essentials": [
 		{
-			"Icon": "/icons/Crafted_01_16.png",
+			"Icon": "/PZ/icons/Crafted_01_16.png",
 			"Name": "Furnace"
 		},
 		{
-			"Icon": "/icons/Ceramic_Crucible_Fired.png",
+			"Icon": "/PZ/icons/Ceramic_Crucible_Fired.png",
 			"Name": "Crucible"
 		},
 		{
-			"Icon": "/icons/BlacksmithTongs.png",
+			"Icon": "/PZ/icons/BlacksmithTongs.png",
 			"Name": "Tongs"
 		},
 		{
-			"Icon": "/icons/Charcoal.png",
+			"Icon": "/PZ/icons/Charcoal.png",
 			"Name": "Charcoal",
 			"Tooltip": ["Wood Charcoal", "Coke"]
 		}
 	],
 	"Other Useful Tools (Used in Recipes)": [
 		{
-			"Icon": "/icons/Ceramic_Glasspipe_Unfired.png",
+			"Icon": "/PZ/icons/Ceramic_Glasspipe_Unfired.png",
 			"Name": "Glass Blowing Pipe"
 		},
 		{
-			"Icon": "/icons/Pliers.png",
+			"Icon": "/PZ/icons/Pliers.png",
 			"Name": "Pliers",
 			"Tooltip": ["Metalworking Pliers", "Multitool"]
 		}
