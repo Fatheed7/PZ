@@ -3,7 +3,7 @@ import { loadCheckedBooks } from "../assets/Utils/LoadCheckedBooks";
 
 export const MagazinesContext = createContext();
 
-const JSON_URL = "/json/magazine.json";
+const JSON_URL = `${import.meta.env.BASE_URL}json/magazine.json`;
 const STORAGE_KEY = "magazines";
 
 export const MagazinesProvider = ({ children }) => {

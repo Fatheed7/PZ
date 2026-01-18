@@ -3,7 +3,7 @@ import { loadCheckedBooks } from "../assets/Utils/LoadCheckedBooks";
 
 export const BooksContext = createContext();
 
-const JSON_URL = "/json/books.json";
+const JSON_URL = `${import.meta.env.BASE_URL}json/books.json`;
 const STORAGE_KEY = "books";
 
 export const BooksProvider = ({ children }) => {
